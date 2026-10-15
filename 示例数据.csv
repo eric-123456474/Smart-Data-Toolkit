@@ -1,0 +1,892 @@
+﻿乘客编号,是否生还,舱位等级,姓名,性别,年龄,同行兄弟姐妹配偶数,同行父母子女数,船票编号,票价,客舱号,登船港口
+1,遇难,3,"Braund, Mr. Owen Harris",男,22.0,1,0,A/5 21171,7.25,,南安普顿
+2,生还,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",女,38.0,1,0,PC 17599,71.2833,C85,瑟堡
+3,生还,3,"Heikkinen, Miss. Laina",女,26.0,0,0,STON/O2. 3101282,7.925,,南安普顿
+4,生还,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",女,35.0,1,0,113803,53.1,C123,南安普顿
+5,遇难,3,"Allen, Mr. William Henry",男,35.0,0,0,373450,8.05,,南安普顿
+6,遇难,3,"Moran, Mr. James",男,,0,0,330877,8.4583,,皇后镇
+7,遇难,1,"McCarthy, Mr. Timothy J",男,54.0,0,0,17463,51.8625,E46,南安普顿
+8,遇难,3,"Palsson, Master. Gosta Leonard",男,2.0,3,1,349909,21.075,,南安普顿
+9,生还,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",女,27.0,0,2,347742,11.1333,,南安普顿
+10,生还,2,"Nasser, Mrs. Nicholas (Adele Achem)",女,14.0,1,0,237736,30.0708,,瑟堡
+11,生还,3,"Sandstrom, Miss. Marguerite Rut",女,4.0,1,1,PP 9549,16.7,G6,南安普顿
+12,生还,1,"Bonnell, Miss. Elizabeth",女,58.0,0,0,113783,26.55,C103,南安普顿
+13,遇难,3,"Saundercock, Mr. William Henry",男,20.0,0,0,A/5. 2151,8.05,,南安普顿
+14,遇难,3,"Andersson, Mr. Anders Johan",男,39.0,1,5,347082,31.275,,南安普顿
+15,遇难,3,"Vestrom, Miss. Hulda Amanda Adolfina",女,14.0,0,0,350406,7.8542,,南安普顿
+16,生还,2,"Hewlett, Mrs. (Mary D Kingcome) ",女,55.0,0,0,248706,16.0,,南安普顿
+17,遇难,3,"Rice, Master. Eugene",男,2.0,4,1,382652,29.125,,皇后镇
+18,生还,2,"Williams, Mr. Charles Eugene",男,,0,0,244373,13.0,,南安普顿
+19,遇难,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",女,31.0,1,0,345763,18.0,,南安普顿
+20,生还,3,"Masselmani, Mrs. Fatima",女,,0,0,2649,7.225,,瑟堡
+21,遇难,2,"Fynney, Mr. Joseph J",男,35.0,0,0,239865,26.0,,南安普顿
+22,生还,2,"Beesley, Mr. Lawrence",男,34.0,0,0,248698,13.0,D56,南安普顿
+23,生还,3,"McGowan, Miss. Anna ""Annie""",女,15.0,0,0,330923,8.0292,,皇后镇
+24,生还,1,"Sloper, Mr. William Thompson",男,28.0,0,0,113788,35.5,A6,南安普顿
+25,遇难,3,"Palsson, Miss. Torborg Danira",女,8.0,3,1,349909,21.075,,南安普顿
+26,生还,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",女,38.0,1,5,347077,31.3875,,南安普顿
+27,遇难,3,"Emir, Mr. Farred Chehab",男,,0,0,2631,7.225,,瑟堡
+28,遇难,1,"Fortune, Mr. Charles Alexander",男,19.0,3,2,19950,263.0,C23 C25 C27,南安普顿
+29,生还,3,"O'Dwyer, Miss. Ellen ""Nellie""",女,,0,0,330959,7.8792,,皇后镇
+30,遇难,3,"Todoroff, Mr. Lalio",男,,0,0,349216,7.8958,,南安普顿
+31,遇难,1,"Uruchurtu, Don. Manuel E",男,40.0,0,0,PC 17601,27.7208,,瑟堡
+32,生还,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",女,,1,0,PC 17569,146.5208,B78,瑟堡
+33,生还,3,"Glynn, Miss. Mary Agatha",女,,0,0,335677,7.75,,皇后镇
+34,遇难,2,"Wheadon, Mr. Edward H",男,66.0,0,0,C.A. 24579,10.5,,南安普顿
+35,遇难,1,"Meyer, Mr. Edgar Joseph",男,28.0,1,0,PC 17604,82.1708,,瑟堡
+36,遇难,1,"Holverson, Mr. Alexander Oskar",男,42.0,1,0,113789,52.0,,南安普顿
+37,生还,3,"Mamee, Mr. Hanna",男,,0,0,2677,7.2292,,瑟堡
+38,遇难,3,"Cann, Mr. Ernest Charles",男,21.0,0,0,A./5. 2152,8.05,,南安普顿
+39,遇难,3,"Vander Planke, Miss. Augusta Maria",女,18.0,2,0,345764,18.0,,南安普顿
+40,生还,3,"Nicola-Yarred, Miss. Jamila",女,14.0,1,0,2651,11.2417,,瑟堡
+41,遇难,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",女,40.0,1,0,7546,9.475,,南安普顿
+42,遇难,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",女,27.0,1,0,11668,21.0,,南安普顿
+43,遇难,3,"Kraeff, Mr. Theodor",男,,0,0,349253,7.8958,,瑟堡
+44,生还,2,"Laroche, Miss. Simonne Marie Anne Andree",女,3.0,1,2,SC/Paris 2123,41.5792,,瑟堡
+45,生还,3,"Devaney, Miss. Margaret Delia",女,19.0,0,0,330958,7.8792,,皇后镇
+46,遇难,3,"Rogers, Mr. William John",男,,0,0,S.C./A.4. 23567,8.05,,南安普顿
+47,遇难,3,"Lennon, Mr. Denis",男,,1,0,370371,15.5,,皇后镇
+48,生还,3,"O'Driscoll, Miss. Bridget",女,,0,0,14311,7.75,,皇后镇
+49,遇难,3,"Samaan, Mr. Youssef",男,,2,0,2662,21.6792,,瑟堡
+50,遇难,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",女,18.0,1,0,349237,17.8,,南安普顿
+51,遇难,3,"Panula, Master. Juha Niilo",男,7.0,4,1,3101295,39.6875,,南安普顿
+52,遇难,3,"Nosworthy, Mr. Richard Cater",男,21.0,0,0,A/4. 39886,7.8,,南安普顿
+53,生还,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",女,49.0,1,0,PC 17572,76.7292,D33,瑟堡
+54,生还,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",女,29.0,1,0,2926,26.0,,南安普顿
+55,遇难,1,"Ostby, Mr. Engelhart Cornelius",男,65.0,0,1,113509,61.9792,B30,瑟堡
+56,生还,1,"Woolner, Mr. Hugh",男,,0,0,19947,35.5,C52,南安普顿
+57,生还,2,"Rugg, Miss. Emily",女,21.0,0,0,C.A. 31026,10.5,,南安普顿
+58,遇难,3,"Novel, Mr. Mansouer",男,28.5,0,0,2697,7.2292,,瑟堡
+59,生还,2,"West, Miss. Constance Mirium",女,5.0,1,2,C.A. 34651,27.75,,南安普顿
+60,遇难,3,"Goodwin, Master. William Frederick",男,11.0,5,2,CA 2144,46.9,,南安普顿
+61,遇难,3,"Sirayanian, Mr. Orsen",男,22.0,0,0,2669,7.2292,,瑟堡
+62,生还,1,"Icard, Miss. Amelie",女,38.0,0,0,113572,80.0,B28,
+63,遇难,1,"Harris, Mr. Henry Birkhardt",男,45.0,1,0,36973,83.475,C83,南安普顿
+64,遇难,3,"Skoog, Master. Harald",男,4.0,3,2,347088,27.9,,南安普顿
+65,遇难,1,"Stewart, Mr. Albert A",男,,0,0,PC 17605,27.7208,,瑟堡
+66,生还,3,"Moubarek, Master. Gerios",男,,1,1,2661,15.2458,,瑟堡
+67,生还,2,"Nye, Mrs. (Elizabeth Ramell)",女,29.0,0,0,C.A. 29395,10.5,F33,南安普顿
+68,遇难,3,"Crease, Mr. Ernest James",男,19.0,0,0,S.P. 3464,8.1583,,南安普顿
+69,生还,3,"Andersson, Miss. Erna Alexandra",女,17.0,4,2,3101281,7.925,,南安普顿
+70,遇难,3,"Kink, Mr. Vincenz",男,26.0,2,0,315151,8.6625,,南安普顿
+71,遇难,2,"Jenkin, Mr. Stephen Curnow",男,32.0,0,0,C.A. 33111,10.5,,南安普顿
+72,遇难,3,"Goodwin, Miss. Lillian Amy",女,16.0,5,2,CA 2144,46.9,,南安普顿
+73,遇难,2,"Hood, Mr. Ambrose Jr",男,21.0,0,0,S.O.C. 14879,73.5,,南安普顿
+74,遇难,3,"Chronopoulos, Mr. Apostolos",男,26.0,1,0,2680,14.4542,,瑟堡
+75,生还,3,"Bing, Mr. Lee",男,32.0,0,0,1601,56.4958,,南安普顿
+76,遇难,3,"Moen, Mr. Sigurd Hansen",男,25.0,0,0,348123,7.65,F G73,南安普顿
+77,遇难,3,"Staneff, Mr. Ivan",男,,0,0,349208,7.8958,,南安普顿
+78,遇难,3,"Moutal, Mr. Rahamin Haim",男,,0,0,374746,8.05,,南安普顿
+79,生还,2,"Caldwell, Master. Alden Gates",男,0.83,0,2,248738,29.0,,南安普顿
+80,生还,3,"Dowdell, Miss. Elizabeth",女,30.0,0,0,364516,12.475,,南安普顿
+81,遇难,3,"Waelens, Mr. Achille",男,22.0,0,0,345767,9.0,,南安普顿
+82,生还,3,"Sheerlinck, Mr. Jan Baptist",男,29.0,0,0,345779,9.5,,南安普顿
+83,生还,3,"McDermott, Miss. Brigdet Delia",女,,0,0,330932,7.7875,,皇后镇
+84,遇难,1,"Carrau, Mr. Francisco M",男,28.0,0,0,113059,47.1,,南安普顿
+85,生还,2,"Ilett, Miss. Bertha",女,17.0,0,0,SO/C 14885,10.5,,南安普顿
+86,生还,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",女,33.0,3,0,3101278,15.85,,南安普顿
+87,遇难,3,"Ford, Mr. William Neal",男,16.0,1,3,W./C. 6608,34.375,,南安普顿
+88,遇难,3,"Slocovski, Mr. Selman Francis",男,,0,0,SOTON/OQ 392086,8.05,,南安普顿
+89,生还,1,"Fortune, Miss. Mabel Helen",女,23.0,3,2,19950,263.0,C23 C25 C27,南安普顿
+90,遇难,3,"Celotti, Mr. Francesco",男,24.0,0,0,343275,8.05,,南安普顿
+91,遇难,3,"Christmann, Mr. Emil",男,29.0,0,0,343276,8.05,,南安普顿
+92,遇难,3,"Andreasson, Mr. Paul Edvin",男,20.0,0,0,347466,7.8542,,南安普顿
+93,遇难,1,"Chaffee, Mr. Herbert Fuller",男,46.0,1,0,W.E.P. 5734,61.175,E31,南安普顿
+94,遇难,3,"Dean, Mr. Bertram Frank",男,26.0,1,2,C.A. 2315,20.575,,南安普顿
+95,遇难,3,"Coxon, Mr. Daniel",男,59.0,0,0,364500,7.25,,南安普顿
+96,遇难,3,"Shorney, Mr. Charles Joseph",男,,0,0,374910,8.05,,南安普顿
+97,遇难,1,"Goldschmidt, Mr. George B",男,71.0,0,0,PC 17754,34.6542,A5,瑟堡
+98,生还,1,"Greenfield, Mr. William Bertram",男,23.0,0,1,PC 17759,63.3583,D10 D12,瑟堡
+99,生还,2,"Doling, Mrs. John T (Ada Julia Bone)",女,34.0,0,1,231919,23.0,,南安普顿
+100,遇难,2,"Kantor, Mr. Sinai",男,34.0,1,0,244367,26.0,,南安普顿
+101,遇难,3,"Petranec, Miss. Matilda",女,28.0,0,0,349245,7.8958,,南安普顿
+102,遇难,3,"Petroff, Mr. Pastcho (""Pentcho"")",男,,0,0,349215,7.8958,,南安普顿
+103,遇难,1,"White, Mr. Richard Frasar",男,21.0,0,1,35281,77.2875,D26,南安普顿
+104,遇难,3,"Johansson, Mr. Gustaf Joel",男,33.0,0,0,7540,8.6542,,南安普顿
+105,遇难,3,"Gustafsson, Mr. Anders Vilhelm",男,37.0,2,0,3101276,7.925,,南安普顿
+106,遇难,3,"Mionoff, Mr. Stoytcho",男,28.0,0,0,349207,7.8958,,南安普顿
+107,生还,3,"Salkjelsvik, Miss. Anna Kristine",女,21.0,0,0,343120,7.65,,南安普顿
+108,生还,3,"Moss, Mr. Albert Johan",男,,0,0,312991,7.775,,南安普顿
+109,遇难,3,"Rekic, Mr. Tido",男,38.0,0,0,349249,7.8958,,南安普顿
+110,生还,3,"Moran, Miss. Bertha",女,,1,0,371110,24.15,,皇后镇
+111,遇难,1,"Porter, Mr. Walter Chamberlain",男,47.0,0,0,110465,52.0,C110,南安普顿
+112,遇难,3,"Zabour, Miss. Hileni",女,14.5,1,0,2665,14.4542,,瑟堡
+113,遇难,3,"Barton, Mr. David John",男,22.0,0,0,324669,8.05,,南安普顿
+114,遇难,3,"Jussila, Miss. Katriina",女,20.0,1,0,4136,9.825,,南安普顿
+115,遇难,3,"Attalah, Miss. Malake",女,17.0,0,0,2627,14.4583,,瑟堡
+116,遇难,3,"Pekoniemi, Mr. Edvard",男,21.0,0,0,STON/O 2. 3101294,7.925,,南安普顿
+117,遇难,3,"Connors, Mr. Patrick",男,70.5,0,0,370369,7.75,,皇后镇
+118,遇难,2,"Turpin, Mr. William John Robert",男,29.0,1,0,11668,21.0,,南安普顿
+119,遇难,1,"Baxter, Mr. Quigg Edmond",男,24.0,0,1,PC 17558,247.5208,B58 B60,瑟堡
+120,遇难,3,"Andersson, Miss. Ellis Anna Maria",女,2.0,4,2,347082,31.275,,南安普顿
+121,遇难,2,"Hickman, Mr. Stanley George",男,21.0,2,0,S.O.C. 14879,73.5,,南安普顿
+122,遇难,3,"Moore, Mr. Leonard Charles",男,,0,0,A4. 54510,8.05,,南安普顿
+123,遇难,2,"Nasser, Mr. Nicholas",男,32.5,1,0,237736,30.0708,,瑟堡
+124,生还,2,"Webber, Miss. Susan",女,32.5,0,0,27267,13.0,E101,南安普顿
+125,遇难,1,"White, Mr. Percival Wayland",男,54.0,0,1,35281,77.2875,D26,南安普顿
+126,生还,3,"Nicola-Yarred, Master. Elias",男,12.0,1,0,2651,11.2417,,瑟堡
+127,遇难,3,"McMahon, Mr. Martin",男,,0,0,370372,7.75,,皇后镇
+128,生还,3,"Madsen, Mr. Fridtjof Arne",男,24.0,0,0,C 17369,7.1417,,南安普顿
+129,生还,3,"Peter, Miss. Anna",女,,1,1,2668,22.3583,F E69,瑟堡
+130,遇难,3,"Ekstrom, Mr. Johan",男,45.0,0,0,347061,6.975,,南安普顿
+131,遇难,3,"Drazenoic, Mr. Jozef",男,33.0,0,0,349241,7.8958,,瑟堡
+132,遇难,3,"Coelho, Mr. Domingos Fernandeo",男,20.0,0,0,SOTON/O.Q. 3101307,7.05,,南安普顿
+133,遇难,3,"Robins, Mrs. Alexander A (Grace Charity Laury)",女,47.0,1,0,A/5. 3337,14.5,,南安普顿
+134,生还,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",女,29.0,1,0,228414,26.0,,南安普顿
+135,遇难,2,"Sobey, Mr. Samuel James Hayden",男,25.0,0,0,C.A. 29178,13.0,,南安普顿
+136,遇难,2,"Richard, Mr. Emile",男,23.0,0,0,SC/PARIS 2133,15.0458,,瑟堡
+137,生还,1,"Newsom, Miss. Helen Monypeny",女,19.0,0,2,11752,26.2833,D47,南安普顿
+138,遇难,1,"Futrelle, Mr. Jacques Heath",男,37.0,1,0,113803,53.1,C123,南安普顿
+139,遇难,3,"Osen, Mr. Olaf Elon",男,16.0,0,0,7534,9.2167,,南安普顿
+140,遇难,1,"Giglio, Mr. Victor",男,24.0,0,0,PC 17593,79.2,B86,瑟堡
+141,遇难,3,"Boulos, Mrs. Joseph (Sultana)",女,,0,2,2678,15.2458,,瑟堡
+142,生还,3,"Nysten, Miss. Anna Sofia",女,22.0,0,0,347081,7.75,,南安普顿
+143,生还,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",女,24.0,1,0,STON/O2. 3101279,15.85,,南安普顿
+144,遇难,3,"Burke, Mr. Jeremiah",男,19.0,0,0,365222,6.75,,皇后镇
+145,遇难,2,"Andrew, Mr. Edgardo Samuel",男,18.0,0,0,231945,11.5,,南安普顿
+146,遇难,2,"Nicholls, Mr. Joseph Charles",男,19.0,1,1,C.A. 33112,36.75,,南安普顿
+147,生还,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",男,27.0,0,0,350043,7.7958,,南安普顿
+148,遇难,3,"Ford, Miss. Robina Maggie ""Ruby""",女,9.0,2,2,W./C. 6608,34.375,,南安普顿
+149,遇难,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",男,36.5,0,2,230080,26.0,F2,南安普顿
+150,遇难,2,"Byles, Rev. Thomas Roussel Davids",男,42.0,0,0,244310,13.0,,南安普顿
+151,遇难,2,"Bateman, Rev. Robert James",男,51.0,0,0,S.O.P. 1166,12.525,,南安普顿
+152,生还,1,"Pears, Mrs. Thomas (Edith Wearne)",女,22.0,1,0,113776,66.6,C2,南安普顿
+153,遇难,3,"Meo, Mr. Alfonzo",男,55.5,0,0,A.5. 11206,8.05,,南安普顿
+154,遇难,3,"van Billiard, Mr. Austin Blyler",男,40.5,0,2,A/5. 851,14.5,,南安普顿
+155,遇难,3,"Olsen, Mr. Ole Martin",男,,0,0,Fa 265302,7.3125,,南安普顿
+156,遇难,1,"Williams, Mr. Charles Duane",男,51.0,0,1,PC 17597,61.3792,,瑟堡
+157,生还,3,"Gilnagh, Miss. Katherine ""Katie""",女,16.0,0,0,35851,7.7333,,皇后镇
+158,遇难,3,"Corn, Mr. Harry",男,30.0,0,0,SOTON/OQ 392090,8.05,,南安普顿
+159,遇难,3,"Smiljanic, Mr. Mile",男,,0,0,315037,8.6625,,南安普顿
+160,遇难,3,"Sage, Master. Thomas Henry",男,,8,2,CA. 2343,69.55,,南安普顿
+161,遇难,3,"Cribb, Mr. John Hatfield",男,44.0,0,1,371362,16.1,,南安普顿
+162,生还,2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",女,40.0,0,0,C.A. 33595,15.75,,南安普顿
+163,遇难,3,"Bengtsson, Mr. John Viktor",男,26.0,0,0,347068,7.775,,南安普顿
+164,遇难,3,"Calic, Mr. Jovo",男,17.0,0,0,315093,8.6625,,南安普顿
+165,遇难,3,"Panula, Master. Eino Viljami",男,1.0,4,1,3101295,39.6875,,南安普顿
+166,生还,3,"Goldsmith, Master. Frank John William ""Frankie""",男,9.0,0,2,363291,20.525,,南安普顿
+167,生还,1,"Chibnall, Mrs. (Edith Martha Bowerman)",女,,0,1,113505,55.0,E33,南安普顿
+168,遇难,3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",女,45.0,1,4,347088,27.9,,南安普顿
+169,遇难,1,"Baumann, Mr. John D",男,,0,0,PC 17318,25.925,,南安普顿
+170,遇难,3,"Ling, Mr. Lee",男,28.0,0,0,1601,56.4958,,南安普顿
+171,遇难,1,"Van der hoef, Mr. Wyckoff",男,61.0,0,0,111240,33.5,B19,南安普顿
+172,遇难,3,"Rice, Master. Arthur",男,4.0,4,1,382652,29.125,,皇后镇
+173,生还,3,"Johnson, Miss. Eleanor Ileen",女,1.0,1,1,347742,11.1333,,南安普顿
+174,遇难,3,"Sivola, Mr. Antti Wilhelm",男,21.0,0,0,STON/O 2. 3101280,7.925,,南安普顿
+175,遇难,1,"Smith, Mr. James Clinch",男,56.0,0,0,17764,30.6958,A7,瑟堡
+176,遇难,3,"Klasen, Mr. Klas Albin",男,18.0,1,1,350404,7.8542,,南安普顿
+177,遇难,3,"Lefebre, Master. Henry Forbes",男,,3,1,4133,25.4667,,南安普顿
+178,遇难,1,"Isham, Miss. Ann Elizabeth",女,50.0,0,0,PC 17595,28.7125,C49,瑟堡
+179,遇难,2,"Hale, Mr. Reginald",男,30.0,0,0,250653,13.0,,南安普顿
+180,遇难,3,"Leonard, Mr. Lionel",男,36.0,0,0,LINE,0.0,,南安普顿
+181,遇难,3,"Sage, Miss. Constance Gladys",女,,8,2,CA. 2343,69.55,,南安普顿
+182,遇难,2,"Pernot, Mr. Rene",男,,0,0,SC/PARIS 2131,15.05,,瑟堡
+183,遇难,3,"Asplund, Master. Clarence Gustaf Hugo",男,9.0,4,2,347077,31.3875,,南安普顿
+184,生还,2,"Becker, Master. Richard F",男,1.0,2,1,230136,39.0,F4,南安普顿
+185,生还,3,"Kink-Heilmann, Miss. Luise Gretchen",女,4.0,0,2,315153,22.025,,南安普顿
+186,遇难,1,"Rood, Mr. Hugh Roscoe",男,,0,0,113767,50.0,A32,南安普顿
+187,生还,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",女,,1,0,370365,15.5,,皇后镇
+188,生还,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",男,45.0,0,0,111428,26.55,,南安普顿
+189,遇难,3,"Bourke, Mr. John",男,40.0,1,1,364849,15.5,,皇后镇
+190,遇难,3,"Turcin, Mr. Stjepan",男,36.0,0,0,349247,7.8958,,南安普顿
+191,生还,2,"Pinsky, Mrs. (Rosa)",女,32.0,0,0,234604,13.0,,南安普顿
+192,遇难,2,"Carbines, Mr. William",男,19.0,0,0,28424,13.0,,南安普顿
+193,生还,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",女,19.0,1,0,350046,7.8542,,南安普顿
+194,生还,2,"Navratil, Master. Michel M",男,3.0,1,1,230080,26.0,F2,南安普顿
+195,生还,1,"Brown, Mrs. James Joseph (Margaret Tobin)",女,44.0,0,0,PC 17610,27.7208,B4,瑟堡
+196,生还,1,"Lurette, Miss. Elise",女,58.0,0,0,PC 17569,146.5208,B80,瑟堡
+197,遇难,3,"Mernagh, Mr. Robert",男,,0,0,368703,7.75,,皇后镇
+198,遇难,3,"Olsen, Mr. Karl Siegwart Andreas",男,42.0,0,1,4579,8.4042,,南安普顿
+199,生还,3,"Madigan, Miss. Margaret ""Maggie""",女,,0,0,370370,7.75,,皇后镇
+200,遇难,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",女,24.0,0,0,248747,13.0,,南安普顿
+201,遇难,3,"Vande Walle, Mr. Nestor Cyriel",男,28.0,0,0,345770,9.5,,南安普顿
+202,遇难,3,"Sage, Mr. Frederick",男,,8,2,CA. 2343,69.55,,南安普顿
+203,遇难,3,"Johanson, Mr. Jakob Alfred",男,34.0,0,0,3101264,6.4958,,南安普顿
+204,遇难,3,"Youseff, Mr. Gerious",男,45.5,0,0,2628,7.225,,瑟堡
+205,生还,3,"Cohen, Mr. Gurshon ""Gus""",男,18.0,0,0,A/5 3540,8.05,,南安普顿
+206,遇难,3,"Strom, Miss. Telma Matilda",女,2.0,0,1,347054,10.4625,G6,南安普顿
+207,遇难,3,"Backstrom, Mr. Karl Alfred",男,32.0,1,0,3101278,15.85,,南安普顿
+208,生还,3,"Albimona, Mr. Nassef Cassem",男,26.0,0,0,2699,18.7875,,瑟堡
+209,生还,3,"Carr, Miss. Helen ""Ellen""",女,16.0,0,0,367231,7.75,,皇后镇
+210,生还,1,"Blank, Mr. Henry",男,40.0,0,0,112277,31.0,A31,瑟堡
+211,遇难,3,"Ali, Mr. Ahmed",男,24.0,0,0,SOTON/O.Q. 3101311,7.05,,南安普顿
+212,生还,2,"Cameron, Miss. Clear Annie",女,35.0,0,0,F.C.C. 13528,21.0,,南安普顿
+213,遇难,3,"Perkin, Mr. John Henry",男,22.0,0,0,A/5 21174,7.25,,南安普顿
+214,遇难,2,"Givard, Mr. Hans Kristensen",男,30.0,0,0,250646,13.0,,南安普顿
+215,遇难,3,"Kiernan, Mr. Philip",男,,1,0,367229,7.75,,皇后镇
+216,生还,1,"Newell, Miss. Madeleine",女,31.0,1,0,35273,113.275,D36,瑟堡
+217,生还,3,"Honkanen, Miss. Eliina",女,27.0,0,0,STON/O2. 3101283,7.925,,南安普顿
+218,遇难,2,"Jacobsohn, Mr. Sidney Samuel",男,42.0,1,0,243847,27.0,,南安普顿
+219,生还,1,"Bazzani, Miss. Albina",女,32.0,0,0,11813,76.2917,D15,瑟堡
+220,遇难,2,"Harris, Mr. Walter",男,30.0,0,0,W/C 14208,10.5,,南安普顿
+221,生还,3,"Sunderland, Mr. Victor Francis",男,16.0,0,0,SOTON/OQ 392089,8.05,,南安普顿
+222,遇难,2,"Bracken, Mr. James H",男,27.0,0,0,220367,13.0,,南安普顿
+223,遇难,3,"Green, Mr. George Henry",男,51.0,0,0,21440,8.05,,南安普顿
+224,遇难,3,"Nenkoff, Mr. Christo",男,,0,0,349234,7.8958,,南安普顿
+225,生还,1,"Hoyt, Mr. Frederick Maxfield",男,38.0,1,0,19943,90.0,C93,南安普顿
+226,遇难,3,"Berglund, Mr. Karl Ivar Sven",男,22.0,0,0,PP 4348,9.35,,南安普顿
+227,生还,2,"Mellors, Mr. William John",男,19.0,0,0,SW/PP 751,10.5,,南安普顿
+228,遇难,3,"Lovell, Mr. John Hall (""Henry"")",男,20.5,0,0,A/5 21173,7.25,,南安普顿
+229,遇难,2,"Fahlstrom, Mr. Arne Jonas",男,18.0,0,0,236171,13.0,,南安普顿
+230,遇难,3,"Lefebre, Miss. Mathilde",女,,3,1,4133,25.4667,,南安普顿
+231,生还,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",女,35.0,1,0,36973,83.475,C83,南安普顿
+232,遇难,3,"Larsson, Mr. Bengt Edvin",男,29.0,0,0,347067,7.775,,南安普顿
+233,遇难,2,"Sjostedt, Mr. Ernst Adolf",男,59.0,0,0,237442,13.5,,南安普顿
+234,生还,3,"Asplund, Miss. Lillian Gertrud",女,5.0,4,2,347077,31.3875,,南安普顿
+235,遇难,2,"Leyson, Mr. Robert William Norman",男,24.0,0,0,C.A. 29566,10.5,,南安普顿
+236,遇难,3,"Harknett, Miss. Alice Phoebe",女,,0,0,W./C. 6609,7.55,,南安普顿
+237,遇难,2,"Hold, Mr. Stephen",男,44.0,1,0,26707,26.0,,南安普顿
+238,生还,2,"Collyer, Miss. Marjorie ""Lottie""",女,8.0,0,2,C.A. 31921,26.25,,南安普顿
+239,遇难,2,"Pengelly, Mr. Frederick William",男,19.0,0,0,28665,10.5,,南安普顿
+240,遇难,2,"Hunt, Mr. George Henry",男,33.0,0,0,SCO/W 1585,12.275,,南安普顿
+241,遇难,3,"Zabour, Miss. Thamine",女,,1,0,2665,14.4542,,瑟堡
+242,生还,3,"Murphy, Miss. Katherine ""Kate""",女,,1,0,367230,15.5,,皇后镇
+243,遇难,2,"Coleridge, Mr. Reginald Charles",男,29.0,0,0,W./C. 14263,10.5,,南安普顿
+244,遇难,3,"Maenpaa, Mr. Matti Alexanteri",男,22.0,0,0,STON/O 2. 3101275,7.125,,南安普顿
+245,遇难,3,"Attalah, Mr. Sleiman",男,30.0,0,0,2694,7.225,,瑟堡
+246,遇难,1,"Minahan, Dr. William Edward",男,44.0,2,0,19928,90.0,C78,皇后镇
+247,遇难,3,"Lindahl, Miss. Agda Thorilda Viktoria",女,25.0,0,0,347071,7.775,,南安普顿
+248,生还,2,"Hamalainen, Mrs. William (Anna)",女,24.0,0,2,250649,14.5,,南安普顿
+249,生还,1,"Beckwith, Mr. Richard Leonard",男,37.0,1,1,11751,52.5542,D35,南安普顿
+250,遇难,2,"Carter, Rev. Ernest Courtenay",男,54.0,1,0,244252,26.0,,南安普顿
+251,遇难,3,"Reed, Mr. James George",男,,0,0,362316,7.25,,南安普顿
+252,遇难,3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",女,29.0,1,1,347054,10.4625,G6,南安普顿
+253,遇难,1,"Stead, Mr. William Thomas",男,62.0,0,0,113514,26.55,C87,南安普顿
+254,遇难,3,"Lobb, Mr. William Arthur",男,30.0,1,0,A/5. 3336,16.1,,南安普顿
+255,遇难,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",女,41.0,0,2,370129,20.2125,,南安普顿
+256,生还,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",女,29.0,0,2,2650,15.2458,,瑟堡
+257,生还,1,"Thorne, Mrs. Gertrude Maybelle",女,,0,0,PC 17585,79.2,,瑟堡
+258,生还,1,"Cherry, Miss. Gladys",女,30.0,0,0,110152,86.5,B77,南安普顿
+259,生还,1,"Ward, Miss. Anna",女,35.0,0,0,PC 17755,512.3292,,瑟堡
+260,生还,2,"Parrish, Mrs. (Lutie Davis)",女,50.0,0,1,230433,26.0,,南安普顿
+261,遇难,3,"Smith, Mr. Thomas",男,,0,0,384461,7.75,,皇后镇
+262,生还,3,"Asplund, Master. Edvin Rojj Felix",男,3.0,4,2,347077,31.3875,,南安普顿
+263,遇难,1,"Taussig, Mr. Emil",男,52.0,1,1,110413,79.65,E67,南安普顿
+264,遇难,1,"Harrison, Mr. William",男,40.0,0,0,112059,0.0,B94,南安普顿
+265,遇难,3,"Henry, Miss. Delia",女,,0,0,382649,7.75,,皇后镇
+266,遇难,2,"Reeves, Mr. David",男,36.0,0,0,C.A. 17248,10.5,,南安普顿
+267,遇难,3,"Panula, Mr. Ernesti Arvid",男,16.0,4,1,3101295,39.6875,,南安普顿
+268,生还,3,"Persson, Mr. Ernst Ulrik",男,25.0,1,0,347083,7.775,,南安普顿
+269,生还,1,"Graham, Mrs. William Thompson (Edith Junkins)",女,58.0,0,1,PC 17582,153.4625,C125,南安普顿
+270,生还,1,"Bissette, Miss. Amelia",女,35.0,0,0,PC 17760,135.6333,C99,南安普顿
+271,遇难,1,"Cairns, Mr. Alexander",男,,0,0,113798,31.0,,南安普顿
+272,生还,3,"Tornquist, Mr. William Henry",男,25.0,0,0,LINE,0.0,,南安普顿
+273,生还,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",女,41.0,0,1,250644,19.5,,南安普顿
+274,遇难,1,"Natsch, Mr. Charles H",男,37.0,0,1,PC 17596,29.7,C118,瑟堡
+275,生还,3,"Healy, Miss. Hanora ""Nora""",女,,0,0,370375,7.75,,皇后镇
+276,生还,1,"Andrews, Miss. Kornelia Theodosia",女,63.0,1,0,13502,77.9583,D7,南安普顿
+277,遇难,3,"Lindblom, Miss. Augusta Charlotta",女,45.0,0,0,347073,7.75,,南安普顿
+278,遇难,2,"Parkes, Mr. Francis ""Frank""",男,,0,0,239853,0.0,,南安普顿
+279,遇难,3,"Rice, Master. Eric",男,7.0,4,1,382652,29.125,,皇后镇
+280,生还,3,"Abbott, Mrs. Stanton (Rosa Hunt)",女,35.0,1,1,C.A. 2673,20.25,,南安普顿
+281,遇难,3,"Duane, Mr. Frank",男,65.0,0,0,336439,7.75,,皇后镇
+282,遇难,3,"Olsson, Mr. Nils Johan Goransson",男,28.0,0,0,347464,7.8542,,南安普顿
+283,遇难,3,"de Pelsmaeker, Mr. Alfons",男,16.0,0,0,345778,9.5,,南安普顿
+284,生还,3,"Dorking, Mr. Edward Arthur",男,19.0,0,0,A/5. 10482,8.05,,南安普顿
+285,遇难,1,"Smith, Mr. Richard William",男,,0,0,113056,26.0,A19,南安普顿
+286,遇难,3,"Stankovic, Mr. Ivan",男,33.0,0,0,349239,8.6625,,瑟堡
+287,生还,3,"de Mulder, Mr. Theodore",男,30.0,0,0,345774,9.5,,南安普顿
+288,遇难,3,"Naidenoff, Mr. Penko",男,22.0,0,0,349206,7.8958,,南安普顿
+289,生还,2,"Hosono, Mr. Masabumi",男,42.0,0,0,237798,13.0,,南安普顿
+290,生还,3,"Connolly, Miss. Kate",女,22.0,0,0,370373,7.75,,皇后镇
+291,生还,1,"Barber, Miss. Ellen ""Nellie""",女,26.0,0,0,19877,78.85,,南安普顿
+292,生还,1,"Bishop, Mrs. Dickinson H (Helen Walton)",女,19.0,1,0,11967,91.0792,B49,瑟堡
+293,遇难,2,"Levy, Mr. Rene Jacques",男,36.0,0,0,SC/Paris 2163,12.875,D,瑟堡
+294,遇难,3,"Haas, Miss. Aloisia",女,24.0,0,0,349236,8.85,,南安普顿
+295,遇难,3,"Mineff, Mr. Ivan",男,24.0,0,0,349233,7.8958,,南安普顿
+296,遇难,1,"Lewy, Mr. Ervin G",男,,0,0,PC 17612,27.7208,,瑟堡
+297,遇难,3,"Hanna, Mr. Mansour",男,23.5,0,0,2693,7.2292,,瑟堡
+298,遇难,1,"Allison, Miss. Helen Loraine",女,2.0,1,2,113781,151.55,C22 C26,南安普顿
+299,生还,1,"Saalfeld, Mr. Adolphe",男,,0,0,19988,30.5,C106,南安普顿
+300,生还,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",女,50.0,0,1,PC 17558,247.5208,B58 B60,瑟堡
+301,生还,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",女,,0,0,9234,7.75,,皇后镇
+302,生还,3,"McCoy, Mr. Bernard",男,,2,0,367226,23.25,,皇后镇
+303,遇难,3,"Johnson, Mr. William Cahoone Jr",男,19.0,0,0,LINE,0.0,,南安普顿
+304,生还,2,"Keane, Miss. Nora A",女,,0,0,226593,12.35,E101,皇后镇
+305,遇难,3,"Williams, Mr. Howard Hugh ""Harry""",男,,0,0,A/5 2466,8.05,,南安普顿
+306,生还,1,"Allison, Master. Hudson Trevor",男,0.92,1,2,113781,151.55,C22 C26,南安普顿
+307,生还,1,"Fleming, Miss. Margaret",女,,0,0,17421,110.8833,,瑟堡
+308,生还,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",女,17.0,1,0,PC 17758,108.9,C65,瑟堡
+309,遇难,2,"Abelson, Mr. Samuel",男,30.0,1,0,P/PP 3381,24.0,,瑟堡
+310,生还,1,"Francatelli, Miss. Laura Mabel",女,30.0,0,0,PC 17485,56.9292,E36,瑟堡
+311,生还,1,"Hays, Miss. Margaret Bechstein",女,24.0,0,0,11767,83.1583,C54,瑟堡
+312,生还,1,"Ryerson, Miss. Emily Borie",女,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,瑟堡
+313,遇难,2,"Lahtinen, Mrs. William (Anna Sylfven)",女,26.0,1,1,250651,26.0,,南安普顿
+314,遇难,3,"Hendekovic, Mr. Ignjac",男,28.0,0,0,349243,7.8958,,南安普顿
+315,遇难,2,"Hart, Mr. Benjamin",男,43.0,1,1,F.C.C. 13529,26.25,,南安普顿
+316,生还,3,"Nilsson, Miss. Helmina Josefina",女,26.0,0,0,347470,7.8542,,南安普顿
+317,生还,2,"Kantor, Mrs. Sinai (Miriam Sternin)",女,24.0,1,0,244367,26.0,,南安普顿
+318,遇难,2,"Moraweck, Dr. Ernest",男,54.0,0,0,29011,14.0,,南安普顿
+319,生还,1,"Wick, Miss. Mary Natalie",女,31.0,0,2,36928,164.8667,C7,南安普顿
+320,生还,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",女,40.0,1,1,16966,134.5,E34,瑟堡
+321,遇难,3,"Dennis, Mr. Samuel",男,22.0,0,0,A/5 21172,7.25,,南安普顿
+322,遇难,3,"Danoff, Mr. Yoto",男,27.0,0,0,349219,7.8958,,南安普顿
+323,生还,2,"Slayter, Miss. Hilda Mary",女,30.0,0,0,234818,12.35,,皇后镇
+324,生还,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",女,22.0,1,1,248738,29.0,,南安普顿
+325,遇难,3,"Sage, Mr. George John Jr",男,,8,2,CA. 2343,69.55,,南安普顿
+326,生还,1,"Young, Miss. Marie Grice",女,36.0,0,0,PC 17760,135.6333,C32,瑟堡
+327,遇难,3,"Nysveen, Mr. Johan Hansen",男,61.0,0,0,345364,6.2375,,南安普顿
+328,生还,2,"Ball, Mrs. (Ada E Hall)",女,36.0,0,0,28551,13.0,D,南安普顿
+329,生还,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",女,31.0,1,1,363291,20.525,,南安普顿
+330,生还,1,"Hippach, Miss. Jean Gertrude",女,16.0,0,1,111361,57.9792,B18,瑟堡
+331,生还,3,"McCoy, Miss. Agnes",女,,2,0,367226,23.25,,皇后镇
+332,遇难,1,"Partner, Mr. Austen",男,45.5,0,0,113043,28.5,C124,南安普顿
+333,遇难,1,"Graham, Mr. George Edward",男,38.0,0,1,PC 17582,153.4625,C91,南安普顿
+334,遇难,3,"Vander Planke, Mr. Leo Edmondus",男,16.0,2,0,345764,18.0,,南安普顿
+335,生还,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",女,,1,0,PC 17611,133.65,,南安普顿
+336,遇难,3,"Denkoff, Mr. Mitto",男,,0,0,349225,7.8958,,南安普顿
+337,遇难,1,"Pears, Mr. Thomas Clinton",男,29.0,1,0,113776,66.6,C2,南安普顿
+338,生还,1,"Burns, Miss. Elizabeth Margaret",女,41.0,0,0,16966,134.5,E40,瑟堡
+339,生还,3,"Dahl, Mr. Karl Edwart",男,45.0,0,0,7598,8.05,,南安普顿
+340,遇难,1,"Blackwell, Mr. Stephen Weart",男,45.0,0,0,113784,35.5,T,南安普顿
+341,生还,2,"Navratil, Master. Edmond Roger",男,2.0,1,1,230080,26.0,F2,南安普顿
+342,生还,1,"Fortune, Miss. Alice Elizabeth",女,24.0,3,2,19950,263.0,C23 C25 C27,南安普顿
+343,遇难,2,"Collander, Mr. Erik Gustaf",男,28.0,0,0,248740,13.0,,南安普顿
+344,遇难,2,"Sedgwick, Mr. Charles Frederick Waddington",男,25.0,0,0,244361,13.0,,南安普顿
+345,遇难,2,"Fox, Mr. Stanley Hubert",男,36.0,0,0,229236,13.0,,南安普顿
+346,生还,2,"Brown, Miss. Amelia ""Mildred""",女,24.0,0,0,248733,13.0,F33,南安普顿
+347,生还,2,"Smith, Miss. Marion Elsie",女,40.0,0,0,31418,13.0,,南安普顿
+348,生还,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",女,,1,0,386525,16.1,,南安普顿
+349,生还,3,"Coutts, Master. William Loch ""William""",男,3.0,1,1,C.A. 37671,15.9,,南安普顿
+350,遇难,3,"Dimic, Mr. Jovan",男,42.0,0,0,315088,8.6625,,南安普顿
+351,遇难,3,"Odahl, Mr. Nils Martin",男,23.0,0,0,7267,9.225,,南安普顿
+352,遇难,1,"Williams-Lambert, Mr. Fletcher Fellows",男,,0,0,113510,35.0,C128,南安普顿
+353,遇难,3,"Elias, Mr. Tannous",男,15.0,1,1,2695,7.2292,,瑟堡
+354,遇难,3,"Arnold-Franchi, Mr. Josef",男,25.0,1,0,349237,17.8,,南安普顿
+355,遇难,3,"Yousif, Mr. Wazli",男,,0,0,2647,7.225,,瑟堡
+356,遇难,3,"Vanden Steen, Mr. Leo Peter",男,28.0,0,0,345783,9.5,,南安普顿
+357,生还,1,"Bowerman, Miss. Elsie Edith",女,22.0,0,1,113505,55.0,E33,南安普顿
+358,遇难,2,"Funk, Miss. Annie Clemmer",女,38.0,0,0,237671,13.0,,南安普顿
+359,生还,3,"McGovern, Miss. Mary",女,,0,0,330931,7.8792,,皇后镇
+360,生还,3,"Mockler, Miss. Helen Mary ""Ellie""",女,,0,0,330980,7.8792,,皇后镇
+361,遇难,3,"Skoog, Mr. Wilhelm",男,40.0,1,4,347088,27.9,,南安普顿
+362,遇难,2,"del Carlo, Mr. Sebastiano",男,29.0,1,0,SC/PARIS 2167,27.7208,,瑟堡
+363,遇难,3,"Barbara, Mrs. (Catherine David)",女,45.0,0,1,2691,14.4542,,瑟堡
+364,遇难,3,"Asim, Mr. Adola",男,35.0,0,0,SOTON/O.Q. 3101310,7.05,,南安普顿
+365,遇难,3,"O'Brien, Mr. Thomas",男,,1,0,370365,15.5,,皇后镇
+366,遇难,3,"Adahl, Mr. Mauritz Nils Martin",男,30.0,0,0,C 7076,7.25,,南安普顿
+367,生还,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",女,60.0,1,0,110813,75.25,D37,瑟堡
+368,生还,3,"Moussa, Mrs. (Mantoura Boulos)",女,,0,0,2626,7.2292,,瑟堡
+369,生还,3,"Jermyn, Miss. Annie",女,,0,0,14313,7.75,,皇后镇
+370,生还,1,"Aubart, Mme. Leontine Pauline",女,24.0,0,0,PC 17477,69.3,B35,瑟堡
+371,生还,1,"Harder, Mr. George Achilles",男,25.0,1,0,11765,55.4417,E50,瑟堡
+372,遇难,3,"Wiklund, Mr. Jakob Alfred",男,18.0,1,0,3101267,6.4958,,南安普顿
+373,遇难,3,"Beavan, Mr. William Thomas",男,19.0,0,0,323951,8.05,,南安普顿
+374,遇难,1,"Ringhini, Mr. Sante",男,22.0,0,0,PC 17760,135.6333,,瑟堡
+375,遇难,3,"Palsson, Miss. Stina Viola",女,3.0,3,1,349909,21.075,,南安普顿
+376,生还,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",女,,1,0,PC 17604,82.1708,,瑟堡
+377,生还,3,"Landergren, Miss. Aurora Adelia",女,22.0,0,0,C 7077,7.25,,南安普顿
+378,遇难,1,"Widener, Mr. Harry Elkins",男,27.0,0,2,113503,211.5,C82,瑟堡
+379,遇难,3,"Betros, Mr. Tannous",男,20.0,0,0,2648,4.0125,,瑟堡
+380,遇难,3,"Gustafsson, Mr. Karl Gideon",男,19.0,0,0,347069,7.775,,南安普顿
+381,生还,1,"Bidois, Miss. Rosalie",女,42.0,0,0,PC 17757,227.525,,瑟堡
+382,生还,3,"Nakid, Miss. Maria (""Mary"")",女,1.0,0,2,2653,15.7417,,瑟堡
+383,遇难,3,"Tikkanen, Mr. Juho",男,32.0,0,0,STON/O 2. 3101293,7.925,,南安普顿
+384,生还,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",女,35.0,1,0,113789,52.0,,南安普顿
+385,遇难,3,"Plotcharsky, Mr. Vasil",男,,0,0,349227,7.8958,,南安普顿
+386,遇难,2,"Davies, Mr. Charles Henry",男,18.0,0,0,S.O.C. 14879,73.5,,南安普顿
+387,遇难,3,"Goodwin, Master. Sidney Leonard",男,1.0,5,2,CA 2144,46.9,,南安普顿
+388,生还,2,"Buss, Miss. Kate",女,36.0,0,0,27849,13.0,,南安普顿
+389,遇难,3,"Sadlier, Mr. Matthew",男,,0,0,367655,7.7292,,皇后镇
+390,生还,2,"Lehmann, Miss. Bertha",女,17.0,0,0,SC 1748,12.0,,瑟堡
+391,生还,1,"Carter, Mr. William Ernest",男,36.0,1,2,113760,120.0,B96 B98,南安普顿
+392,生还,3,"Jansson, Mr. Carl Olof",男,21.0,0,0,350034,7.7958,,南安普顿
+393,遇难,3,"Gustafsson, Mr. Johan Birger",男,28.0,2,0,3101277,7.925,,南安普顿
+394,生还,1,"Newell, Miss. Marjorie",女,23.0,1,0,35273,113.275,D36,瑟堡
+395,生还,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",女,24.0,0,2,PP 9549,16.7,G6,南安普顿
+396,遇难,3,"Johansson, Mr. Erik",男,22.0,0,0,350052,7.7958,,南安普顿
+397,遇难,3,"Olsson, Miss. Elina",女,31.0,0,0,350407,7.8542,,南安普顿
+398,遇难,2,"McKane, Mr. Peter David",男,46.0,0,0,28403,26.0,,南安普顿
+399,遇难,2,"Pain, Dr. Alfred",男,23.0,0,0,244278,10.5,,南安普顿
+400,生还,2,"Trout, Mrs. William H (Jessie L)",女,28.0,0,0,240929,12.65,,南安普顿
+401,生还,3,"Niskanen, Mr. Juha",男,39.0,0,0,STON/O 2. 3101289,7.925,,南安普顿
+402,遇难,3,"Adams, Mr. John",男,26.0,0,0,341826,8.05,,南安普顿
+403,遇难,3,"Jussila, Miss. Mari Aina",女,21.0,1,0,4137,9.825,,南安普顿
+404,遇难,3,"Hakkarainen, Mr. Pekka Pietari",男,28.0,1,0,STON/O2. 3101279,15.85,,南安普顿
+405,遇难,3,"Oreskovic, Miss. Marija",女,20.0,0,0,315096,8.6625,,南安普顿
+406,遇难,2,"Gale, Mr. Shadrach",男,34.0,1,0,28664,21.0,,南安普顿
+407,遇难,3,"Widegren, Mr. Carl/Charles Peter",男,51.0,0,0,347064,7.75,,南安普顿
+408,生还,2,"Richards, Master. William Rowe",男,3.0,1,1,29106,18.75,,南安普顿
+409,遇难,3,"Birkeland, Mr. Hans Martin Monsen",男,21.0,0,0,312992,7.775,,南安普顿
+410,遇难,3,"Lefebre, Miss. Ida",女,,3,1,4133,25.4667,,南安普顿
+411,遇难,3,"Sdycoff, Mr. Todor",男,,0,0,349222,7.8958,,南安普顿
+412,遇难,3,"Hart, Mr. Henry",男,,0,0,394140,6.8583,,皇后镇
+413,生还,1,"Minahan, Miss. Daisy E",女,33.0,1,0,19928,90.0,C78,皇后镇
+414,遇难,2,"Cunningham, Mr. Alfred Fleming",男,,0,0,239853,0.0,,南安普顿
+415,生还,3,"Sundman, Mr. Johan Julian",男,44.0,0,0,STON/O 2. 3101269,7.925,,南安普顿
+416,遇难,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",女,,0,0,343095,8.05,,南安普顿
+417,生还,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",女,34.0,1,1,28220,32.5,,南安普顿
+418,生还,2,"Silven, Miss. Lyyli Karoliina",女,18.0,0,2,250652,13.0,,南安普顿
+419,遇难,2,"Matthews, Mr. William John",男,30.0,0,0,28228,13.0,,南安普顿
+420,遇难,3,"Van Impe, Miss. Catharina",女,10.0,0,2,345773,24.15,,南安普顿
+421,遇难,3,"Gheorgheff, Mr. Stanio",男,,0,0,349254,7.8958,,瑟堡
+422,遇难,3,"Charters, Mr. David",男,21.0,0,0,A/5. 13032,7.7333,,皇后镇
+423,遇难,3,"Zimmerman, Mr. Leo",男,29.0,0,0,315082,7.875,,南安普顿
+424,遇难,3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",女,28.0,1,1,347080,14.4,,南安普顿
+425,遇难,3,"Rosblom, Mr. Viktor Richard",男,18.0,1,1,370129,20.2125,,南安普顿
+426,遇难,3,"Wiseman, Mr. Phillippe",男,,0,0,A/4. 34244,7.25,,南安普顿
+427,生还,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",女,28.0,1,0,2003,26.0,,南安普顿
+428,生还,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",女,19.0,0,0,250655,26.0,,南安普顿
+429,遇难,3,"Flynn, Mr. James",男,,0,0,364851,7.75,,皇后镇
+430,生还,3,"Pickard, Mr. Berk (Berk Trembisky)",男,32.0,0,0,SOTON/O.Q. 392078,8.05,E10,南安普顿
+431,生还,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",男,28.0,0,0,110564,26.55,C52,南安普顿
+432,生还,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",女,,1,0,376564,16.1,,南安普顿
+433,生还,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",女,42.0,1,0,SC/AH 3085,26.0,,南安普顿
+434,遇难,3,"Kallio, Mr. Nikolai Erland",男,17.0,0,0,STON/O 2. 3101274,7.125,,南安普顿
+435,遇难,1,"Silvey, Mr. William Baird",男,50.0,1,0,13507,55.9,E44,南安普顿
+436,生还,1,"Carter, Miss. Lucile Polk",女,14.0,1,2,113760,120.0,B96 B98,南安普顿
+437,遇难,3,"Ford, Miss. Doolina Margaret ""Daisy""",女,21.0,2,2,W./C. 6608,34.375,,南安普顿
+438,生还,2,"Richards, Mrs. Sidney (Emily Hocking)",女,24.0,2,3,29106,18.75,,南安普顿
+439,遇难,1,"Fortune, Mr. Mark",男,64.0,1,4,19950,263.0,C23 C25 C27,南安普顿
+440,遇难,2,"Kvillner, Mr. Johan Henrik Johannesson",男,31.0,0,0,C.A. 18723,10.5,,南安普顿
+441,生还,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",女,45.0,1,1,F.C.C. 13529,26.25,,南安普顿
+442,遇难,3,"Hampe, Mr. Leon",男,20.0,0,0,345769,9.5,,南安普顿
+443,遇难,3,"Petterson, Mr. Johan Emil",男,25.0,1,0,347076,7.775,,南安普顿
+444,生还,2,"Reynaldo, Ms. Encarnacion",女,28.0,0,0,230434,13.0,,南安普顿
+445,生还,3,"Johannesen-Bratthammer, Mr. Bernt",男,,0,0,65306,8.1125,,南安普顿
+446,生还,1,"Dodge, Master. Washington",男,4.0,0,2,33638,81.8583,A34,南安普顿
+447,生还,2,"Mellinger, Miss. Madeleine Violet",女,13.0,0,1,250644,19.5,,南安普顿
+448,生还,1,"Seward, Mr. Frederic Kimber",男,34.0,0,0,113794,26.55,,南安普顿
+449,生还,3,"Baclini, Miss. Marie Catherine",女,5.0,2,1,2666,19.2583,,瑟堡
+450,生还,1,"Peuchen, Major. Arthur Godfrey",男,52.0,0,0,113786,30.5,C104,南安普顿
+451,遇难,2,"West, Mr. Edwy Arthur",男,36.0,1,2,C.A. 34651,27.75,,南安普顿
+452,遇难,3,"Hagland, Mr. Ingvald Olai Olsen",男,,1,0,65303,19.9667,,南安普顿
+453,遇难,1,"Foreman, Mr. Benjamin Laventall",男,30.0,0,0,113051,27.75,C111,瑟堡
+454,生还,1,"Goldenberg, Mr. Samuel L",男,49.0,1,0,17453,89.1042,C92,瑟堡
+455,遇难,3,"Peduzzi, Mr. Joseph",男,,0,0,A/5 2817,8.05,,南安普顿
+456,生还,3,"Jalsevac, Mr. Ivan",男,29.0,0,0,349240,7.8958,,瑟堡
+457,遇难,1,"Millet, Mr. Francis Davis",男,65.0,0,0,13509,26.55,E38,南安普顿
+458,生还,1,"Kenyon, Mrs. Frederick R (Marion)",女,,1,0,17464,51.8625,D21,南安普顿
+459,生还,2,"Toomey, Miss. Ellen",女,50.0,0,0,F.C.C. 13531,10.5,,南安普顿
+460,遇难,3,"O'Connor, Mr. Maurice",男,,0,0,371060,7.75,,皇后镇
+461,生还,1,"Anderson, Mr. Harry",男,48.0,0,0,19952,26.55,E12,南安普顿
+462,遇难,3,"Morley, Mr. William",男,34.0,0,0,364506,8.05,,南安普顿
+463,遇难,1,"Gee, Mr. Arthur H",男,47.0,0,0,111320,38.5,E63,南安普顿
+464,遇难,2,"Milling, Mr. Jacob Christian",男,48.0,0,0,234360,13.0,,南安普顿
+465,遇难,3,"Maisner, Mr. Simon",男,,0,0,A/S 2816,8.05,,南安普顿
+466,遇难,3,"Goncalves, Mr. Manuel Estanslas",男,38.0,0,0,SOTON/O.Q. 3101306,7.05,,南安普顿
+467,遇难,2,"Campbell, Mr. William",男,,0,0,239853,0.0,,南安普顿
+468,遇难,1,"Smart, Mr. John Montgomery",男,56.0,0,0,113792,26.55,,南安普顿
+469,遇难,3,"Scanlan, Mr. James",男,,0,0,36209,7.725,,皇后镇
+470,生还,3,"Baclini, Miss. Helene Barbara",女,0.75,2,1,2666,19.2583,,瑟堡
+471,遇难,3,"Keefe, Mr. Arthur",男,,0,0,323592,7.25,,南安普顿
+472,遇难,3,"Cacic, Mr. Luka",男,38.0,0,0,315089,8.6625,,南安普顿
+473,生还,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",女,33.0,1,2,C.A. 34651,27.75,,南安普顿
+474,生还,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",女,23.0,0,0,SC/AH Basle 541,13.7917,D,瑟堡
+475,遇难,3,"Strandberg, Miss. Ida Sofia",女,22.0,0,0,7553,9.8375,,南安普顿
+476,遇难,1,"Clifford, Mr. George Quincy",男,,0,0,110465,52.0,A14,南安普顿
+477,遇难,2,"Renouf, Mr. Peter Henry",男,34.0,1,0,31027,21.0,,南安普顿
+478,遇难,3,"Braund, Mr. Lewis Richard",男,29.0,1,0,3460,7.0458,,南安普顿
+479,遇难,3,"Karlsson, Mr. Nils August",男,22.0,0,0,350060,7.5208,,南安普顿
+480,生还,3,"Hirvonen, Miss. Hildur E",女,2.0,0,1,3101298,12.2875,,南安普顿
+481,遇难,3,"Goodwin, Master. Harold Victor",男,9.0,5,2,CA 2144,46.9,,南安普顿
+482,遇难,2,"Frost, Mr. Anthony Wood ""Archie""",男,,0,0,239854,0.0,,南安普顿
+483,遇难,3,"Rouse, Mr. Richard Henry",男,50.0,0,0,A/5 3594,8.05,,南安普顿
+484,生还,3,"Turkula, Mrs. (Hedwig)",女,63.0,0,0,4134,9.5875,,南安普顿
+485,生还,1,"Bishop, Mr. Dickinson H",男,25.0,1,0,11967,91.0792,B49,瑟堡
+486,遇难,3,"Lefebre, Miss. Jeannie",女,,3,1,4133,25.4667,,南安普顿
+487,生还,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",女,35.0,1,0,19943,90.0,C93,南安普顿
+488,遇难,1,"Kent, Mr. Edward Austin",男,58.0,0,0,11771,29.7,B37,瑟堡
+489,遇难,3,"Somerton, Mr. Francis William",男,30.0,0,0,A.5. 18509,8.05,,南安普顿
+490,生还,3,"Coutts, Master. Eden Leslie ""Neville""",男,9.0,1,1,C.A. 37671,15.9,,南安普顿
+491,遇难,3,"Hagland, Mr. Konrad Mathias Reiersen",男,,1,0,65304,19.9667,,南安普顿
+492,遇难,3,"Windelov, Mr. Einar",男,21.0,0,0,SOTON/OQ 3101317,7.25,,南安普顿
+493,遇难,1,"Molson, Mr. Harry Markland",男,55.0,0,0,113787,30.5,C30,南安普顿
+494,遇难,1,"Artagaveytia, Mr. Ramon",男,71.0,0,0,PC 17609,49.5042,,瑟堡
+495,遇难,3,"Stanley, Mr. Edward Roland",男,21.0,0,0,A/4 45380,8.05,,南安普顿
+496,遇难,3,"Yousseff, Mr. Gerious",男,,0,0,2627,14.4583,,瑟堡
+497,生还,1,"Eustis, Miss. Elizabeth Mussey",女,54.0,1,0,36947,78.2667,D20,瑟堡
+498,遇难,3,"Shellard, Mr. Frederick William",男,,0,0,C.A. 6212,15.1,,南安普顿
+499,遇难,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",女,25.0,1,2,113781,151.55,C22 C26,南安普顿
+500,遇难,3,"Svensson, Mr. Olof",男,24.0,0,0,350035,7.7958,,南安普顿
+501,遇难,3,"Calic, Mr. Petar",男,17.0,0,0,315086,8.6625,,南安普顿
+502,遇难,3,"Canavan, Miss. Mary",女,21.0,0,0,364846,7.75,,皇后镇
+503,遇难,3,"O'Sullivan, Miss. Bridget Mary",女,,0,0,330909,7.6292,,皇后镇
+504,遇难,3,"Laitinen, Miss. Kristina Sofia",女,37.0,0,0,4135,9.5875,,南安普顿
+505,生还,1,"Maioni, Miss. Roberta",女,16.0,0,0,110152,86.5,B79,南安普顿
+506,遇难,1,"Penasco y Castellana, Mr. Victor de Satode",男,18.0,1,0,PC 17758,108.9,C65,瑟堡
+507,生还,2,"Quick, Mrs. Frederick Charles (Jane Richards)",女,33.0,0,2,26360,26.0,,南安普顿
+508,生还,1,"Bradley, Mr. George (""George Arthur Brayton"")",男,,0,0,111427,26.55,,南安普顿
+509,遇难,3,"Olsen, Mr. Henry Margido",男,28.0,0,0,C 4001,22.525,,南安普顿
+510,生还,3,"Lang, Mr. Fang",男,26.0,0,0,1601,56.4958,,南安普顿
+511,生还,3,"Daly, Mr. Eugene Patrick",男,29.0,0,0,382651,7.75,,皇后镇
+512,遇难,3,"Webber, Mr. James",男,,0,0,SOTON/OQ 3101316,8.05,,南安普顿
+513,生还,1,"McGough, Mr. James Robert",男,36.0,0,0,PC 17473,26.2875,E25,南安普顿
+514,生还,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",女,54.0,1,0,PC 17603,59.4,,瑟堡
+515,遇难,3,"Coleff, Mr. Satio",男,24.0,0,0,349209,7.4958,,南安普顿
+516,遇难,1,"Walker, Mr. William Anderson",男,47.0,0,0,36967,34.0208,D46,南安普顿
+517,生还,2,"Lemore, Mrs. (Amelia Milley)",女,34.0,0,0,C.A. 34260,10.5,F33,南安普顿
+518,遇难,3,"Ryan, Mr. Patrick",男,,0,0,371110,24.15,,皇后镇
+519,生还,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",女,36.0,1,0,226875,26.0,,南安普顿
+520,遇难,3,"Pavlovic, Mr. Stefo",男,32.0,0,0,349242,7.8958,,南安普顿
+521,生还,1,"Perreault, Miss. Anne",女,30.0,0,0,12749,93.5,B73,南安普顿
+522,遇难,3,"Vovk, Mr. Janko",男,22.0,0,0,349252,7.8958,,南安普顿
+523,遇难,3,"Lahoud, Mr. Sarkis",男,,0,0,2624,7.225,,瑟堡
+524,生还,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",女,44.0,0,1,111361,57.9792,B18,瑟堡
+525,遇难,3,"Kassem, Mr. Fared",男,,0,0,2700,7.2292,,瑟堡
+526,遇难,3,"Farrell, Mr. James",男,40.5,0,0,367232,7.75,,皇后镇
+527,生还,2,"Ridsdale, Miss. Lucy",女,50.0,0,0,W./C. 14258,10.5,,南安普顿
+528,遇难,1,"Farthing, Mr. John",男,,0,0,PC 17483,221.7792,C95,南安普顿
+529,遇难,3,"Salonen, Mr. Johan Werner",男,39.0,0,0,3101296,7.925,,南安普顿
+530,遇难,2,"Hocking, Mr. Richard George",男,23.0,2,1,29104,11.5,,南安普顿
+531,生还,2,"Quick, Miss. Phyllis May",女,2.0,1,1,26360,26.0,,南安普顿
+532,遇难,3,"Toufik, Mr. Nakli",男,,0,0,2641,7.2292,,瑟堡
+533,遇难,3,"Elias, Mr. Joseph Jr",男,17.0,1,1,2690,7.2292,,瑟堡
+534,生还,3,"Peter, Mrs. Catherine (Catherine Rizk)",女,,0,2,2668,22.3583,,瑟堡
+535,遇难,3,"Cacic, Miss. Marija",女,30.0,0,0,315084,8.6625,,南安普顿
+536,生还,2,"Hart, Miss. Eva Miriam",女,7.0,0,2,F.C.C. 13529,26.25,,南安普顿
+537,遇难,1,"Butt, Major. Archibald Willingham",男,45.0,0,0,113050,26.55,B38,南安普顿
+538,生还,1,"LeRoy, Miss. Bertha",女,30.0,0,0,PC 17761,106.425,,瑟堡
+539,遇难,3,"Risien, Mr. Samuel Beard",男,,0,0,364498,14.5,,南安普顿
+540,生还,1,"Frolicher, Miss. Hedwig Margaritha",女,22.0,0,2,13568,49.5,B39,瑟堡
+541,生还,1,"Crosby, Miss. Harriet R",女,36.0,0,2,WE/P 5735,71.0,B22,南安普顿
+542,遇难,3,"Andersson, Miss. Ingeborg Constanzia",女,9.0,4,2,347082,31.275,,南安普顿
+543,遇难,3,"Andersson, Miss. Sigrid Elisabeth",女,11.0,4,2,347082,31.275,,南安普顿
+544,生还,2,"Beane, Mr. Edward",男,32.0,1,0,2908,26.0,,南安普顿
+545,遇难,1,"Douglas, Mr. Walter Donald",男,50.0,1,0,PC 17761,106.425,C86,瑟堡
+546,遇难,1,"Nicholson, Mr. Arthur Ernest",男,64.0,0,0,693,26.0,,南安普顿
+547,生还,2,"Beane, Mrs. Edward (Ethel Clarke)",女,19.0,1,0,2908,26.0,,南安普顿
+548,生还,2,"Padro y Manent, Mr. Julian",男,,0,0,SC/PARIS 2146,13.8625,,瑟堡
+549,遇难,3,"Goldsmith, Mr. Frank John",男,33.0,1,1,363291,20.525,,南安普顿
+550,生还,2,"Davies, Master. John Morgan Jr",男,8.0,1,1,C.A. 33112,36.75,,南安普顿
+551,生还,1,"Thayer, Mr. John Borland Jr",男,17.0,0,2,17421,110.8833,C70,瑟堡
+552,遇难,2,"Sharp, Mr. Percival James R",男,27.0,0,0,244358,26.0,,南安普顿
+553,遇难,3,"O'Brien, Mr. Timothy",男,,0,0,330979,7.8292,,皇后镇
+554,生还,3,"Leeni, Mr. Fahim (""Philip Zenni"")",男,22.0,0,0,2620,7.225,,瑟堡
+555,生还,3,"Ohman, Miss. Velin",女,22.0,0,0,347085,7.775,,南安普顿
+556,遇难,1,"Wright, Mr. George",男,62.0,0,0,113807,26.55,,南安普顿
+557,生还,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",女,48.0,1,0,11755,39.6,A16,瑟堡
+558,遇难,1,"Robbins, Mr. Victor",男,,0,0,PC 17757,227.525,,瑟堡
+559,生还,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",女,39.0,1,1,110413,79.65,E67,南安普顿
+560,生还,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",女,36.0,1,0,345572,17.4,,南安普顿
+561,遇难,3,"Morrow, Mr. Thomas Rowan",男,,0,0,372622,7.75,,皇后镇
+562,遇难,3,"Sivic, Mr. Husein",男,40.0,0,0,349251,7.8958,,南安普顿
+563,遇难,2,"Norman, Mr. Robert Douglas",男,28.0,0,0,218629,13.5,,南安普顿
+564,遇难,3,"Simmons, Mr. John",男,,0,0,SOTON/OQ 392082,8.05,,南安普顿
+565,遇难,3,"Meanwell, Miss. (Marion Ogden)",女,,0,0,SOTON/O.Q. 392087,8.05,,南安普顿
+566,遇难,3,"Davies, Mr. Alfred J",男,24.0,2,0,A/4 48871,24.15,,南安普顿
+567,遇难,3,"Stoytcheff, Mr. Ilia",男,19.0,0,0,349205,7.8958,,南安普顿
+568,遇难,3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",女,29.0,0,4,349909,21.075,,南安普顿
+569,遇难,3,"Doharr, Mr. Tannous",男,,0,0,2686,7.2292,,瑟堡
+570,生还,3,"Jonsson, Mr. Carl",男,32.0,0,0,350417,7.8542,,南安普顿
+571,生还,2,"Harris, Mr. George",男,62.0,0,0,S.W./PP 752,10.5,,南安普顿
+572,生还,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",女,53.0,2,0,11769,51.4792,C101,南安普顿
+573,生还,1,"Flynn, Mr. John Irwin (""Irving"")",男,36.0,0,0,PC 17474,26.3875,E25,南安普顿
+574,生还,3,"Kelly, Miss. Mary",女,,0,0,14312,7.75,,皇后镇
+575,遇难,3,"Rush, Mr. Alfred George John",男,16.0,0,0,A/4. 20589,8.05,,南安普顿
+576,遇难,3,"Patchett, Mr. George",男,19.0,0,0,358585,14.5,,南安普顿
+577,生还,2,"Garside, Miss. Ethel",女,34.0,0,0,243880,13.0,,南安普顿
+578,生还,1,"Silvey, Mrs. William Baird (Alice Munger)",女,39.0,1,0,13507,55.9,E44,南安普顿
+579,遇难,3,"Caram, Mrs. Joseph (Maria Elias)",女,,1,0,2689,14.4583,,瑟堡
+580,生还,3,"Jussila, Mr. Eiriik",男,32.0,0,0,STON/O 2. 3101286,7.925,,南安普顿
+581,生还,2,"Christy, Miss. Julie Rachel",女,25.0,1,1,237789,30.0,,南安普顿
+582,生还,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",女,39.0,1,1,17421,110.8833,C68,瑟堡
+583,遇难,2,"Downton, Mr. William James",男,54.0,0,0,28403,26.0,,南安普顿
+584,遇难,1,"Ross, Mr. John Hugo",男,36.0,0,0,13049,40.125,A10,瑟堡
+585,遇难,3,"Paulner, Mr. Uscher",男,,0,0,3411,8.7125,,瑟堡
+586,生还,1,"Taussig, Miss. Ruth",女,18.0,0,2,110413,79.65,E68,南安普顿
+587,遇难,2,"Jarvis, Mr. John Denzil",男,47.0,0,0,237565,15.0,,南安普顿
+588,生还,1,"Frolicher-Stehli, Mr. Maxmillian",男,60.0,1,1,13567,79.2,B41,瑟堡
+589,遇难,3,"Gilinski, Mr. Eliezer",男,22.0,0,0,14973,8.05,,南安普顿
+590,遇难,3,"Murdlin, Mr. Joseph",男,,0,0,A./5. 3235,8.05,,南安普顿
+591,遇难,3,"Rintamaki, Mr. Matti",男,35.0,0,0,STON/O 2. 3101273,7.125,,南安普顿
+592,生还,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",女,52.0,1,0,36947,78.2667,D20,瑟堡
+593,遇难,3,"Elsbury, Mr. William James",男,47.0,0,0,A/5 3902,7.25,,南安普顿
+594,遇难,3,"Bourke, Miss. Mary",女,,0,2,364848,7.75,,皇后镇
+595,遇难,2,"Chapman, Mr. John Henry",男,37.0,1,0,SC/AH 29037,26.0,,南安普顿
+596,遇难,3,"Van Impe, Mr. Jean Baptiste",男,36.0,1,1,345773,24.15,,南安普顿
+597,生还,2,"Leitch, Miss. Jessie Wills",女,,0,0,248727,33.0,,南安普顿
+598,遇难,3,"Johnson, Mr. Alfred",男,49.0,0,0,LINE,0.0,,南安普顿
+599,遇难,3,"Boulos, Mr. Hanna",男,,0,0,2664,7.225,,瑟堡
+600,生还,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",男,49.0,1,0,PC 17485,56.9292,A20,瑟堡
+601,生还,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",女,24.0,2,1,243847,27.0,,南安普顿
+602,遇难,3,"Slabenoff, Mr. Petco",男,,0,0,349214,7.8958,,南安普顿
+603,遇难,1,"Harrington, Mr. Charles H",男,,0,0,113796,42.4,,南安普顿
+604,遇难,3,"Torber, Mr. Ernst William",男,44.0,0,0,364511,8.05,,南安普顿
+605,生还,1,"Homer, Mr. Harry (""Mr E Haven"")",男,35.0,0,0,111426,26.55,,瑟堡
+606,遇难,3,"Lindell, Mr. Edvard Bengtsson",男,36.0,1,0,349910,15.55,,南安普顿
+607,遇难,3,"Karaic, Mr. Milan",男,30.0,0,0,349246,7.8958,,南安普顿
+608,生还,1,"Daniel, Mr. Robert Williams",男,27.0,0,0,113804,30.5,,南安普顿
+609,生还,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",女,22.0,1,2,SC/Paris 2123,41.5792,,瑟堡
+610,生还,1,"Shutes, Miss. Elizabeth W",女,40.0,0,0,PC 17582,153.4625,C125,南安普顿
+611,遇难,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",女,39.0,1,5,347082,31.275,,南安普顿
+612,遇难,3,"Jardin, Mr. Jose Neto",男,,0,0,SOTON/O.Q. 3101305,7.05,,南安普顿
+613,生还,3,"Murphy, Miss. Margaret Jane",女,,1,0,367230,15.5,,皇后镇
+614,遇难,3,"Horgan, Mr. John",男,,0,0,370377,7.75,,皇后镇
+615,遇难,3,"Brocklebank, Mr. William Alfred",男,35.0,0,0,364512,8.05,,南安普顿
+616,生还,2,"Herman, Miss. Alice",女,24.0,1,2,220845,65.0,,南安普顿
+617,遇难,3,"Danbom, Mr. Ernst Gilbert",男,34.0,1,1,347080,14.4,,南安普顿
+618,遇难,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",女,26.0,1,0,A/5. 3336,16.1,,南安普顿
+619,生还,2,"Becker, Miss. Marion Louise",女,4.0,2,1,230136,39.0,F4,南安普顿
+620,遇难,2,"Gavey, Mr. Lawrence",男,26.0,0,0,31028,10.5,,南安普顿
+621,遇难,3,"Yasbeck, Mr. Antoni",男,27.0,1,0,2659,14.4542,,瑟堡
+622,生还,1,"Kimball, Mr. Edwin Nelson Jr",男,42.0,1,0,11753,52.5542,D19,南安普顿
+623,生还,3,"Nakid, Mr. Sahid",男,20.0,1,1,2653,15.7417,,瑟堡
+624,遇难,3,"Hansen, Mr. Henry Damsgaard",男,21.0,0,0,350029,7.8542,,南安普顿
+625,遇难,3,"Bowen, Mr. David John ""Dai""",男,21.0,0,0,54636,16.1,,南安普顿
+626,遇难,1,"Sutton, Mr. Frederick",男,61.0,0,0,36963,32.3208,D50,南安普顿
+627,遇难,2,"Kirkland, Rev. Charles Leonard",男,57.0,0,0,219533,12.35,,皇后镇
+628,生还,1,"Longley, Miss. Gretchen Fiske",女,21.0,0,0,13502,77.9583,D9,南安普顿
+629,遇难,3,"Bostandyeff, Mr. Guentcho",男,26.0,0,0,349224,7.8958,,南安普顿
+630,遇难,3,"O'Connell, Mr. Patrick D",男,,0,0,334912,7.7333,,皇后镇
+631,生还,1,"Barkworth, Mr. Algernon Henry Wilson",男,80.0,0,0,27042,30.0,A23,南安普顿
+632,遇难,3,"Lundahl, Mr. Johan Svensson",男,51.0,0,0,347743,7.0542,,南安普顿
+633,生还,1,"Stahelin-Maeglin, Dr. Max",男,32.0,0,0,13214,30.5,B50,瑟堡
+634,遇难,1,"Parr, Mr. William Henry Marsh",男,,0,0,112052,0.0,,南安普顿
+635,遇难,3,"Skoog, Miss. Mabel",女,9.0,3,2,347088,27.9,,南安普顿
+636,生还,2,"Davis, Miss. Mary",女,28.0,0,0,237668,13.0,,南安普顿
+637,遇难,3,"Leinonen, Mr. Antti Gustaf",男,32.0,0,0,STON/O 2. 3101292,7.925,,南安普顿
+638,遇难,2,"Collyer, Mr. Harvey",男,31.0,1,1,C.A. 31921,26.25,,南安普顿
+639,遇难,3,"Panula, Mrs. Juha (Maria Emilia Ojala)",女,41.0,0,5,3101295,39.6875,,南安普顿
+640,遇难,3,"Thorneycroft, Mr. Percival",男,,1,0,376564,16.1,,南安普顿
+641,遇难,3,"Jensen, Mr. Hans Peder",男,20.0,0,0,350050,7.8542,,南安普顿
+642,生还,1,"Sagesser, Mlle. Emma",女,24.0,0,0,PC 17477,69.3,B35,瑟堡
+643,遇难,3,"Skoog, Miss. Margit Elizabeth",女,2.0,3,2,347088,27.9,,南安普顿
+644,生还,3,"Foo, Mr. Choong",男,,0,0,1601,56.4958,,南安普顿
+645,生还,3,"Baclini, Miss. Eugenie",女,0.75,2,1,2666,19.2583,,瑟堡
+646,生还,1,"Harper, Mr. Henry Sleeper",男,48.0,1,0,PC 17572,76.7292,D33,瑟堡
+647,遇难,3,"Cor, Mr. Liudevit",男,19.0,0,0,349231,7.8958,,南安普顿
+648,生还,1,"Simonius-Blumer, Col. Oberst Alfons",男,56.0,0,0,13213,35.5,A26,瑟堡
+649,遇难,3,"Willey, Mr. Edward",男,,0,0,S.O./P.P. 751,7.55,,南安普顿
+650,生还,3,"Stanley, Miss. Amy Zillah Elsie",女,23.0,0,0,CA. 2314,7.55,,南安普顿
+651,遇难,3,"Mitkoff, Mr. Mito",男,,0,0,349221,7.8958,,南安普顿
+652,生还,2,"Doling, Miss. Elsie",女,18.0,0,1,231919,23.0,,南安普顿
+653,遇难,3,"Kalvik, Mr. Johannes Halvorsen",男,21.0,0,0,8475,8.4333,,南安普顿
+654,生还,3,"O'Leary, Miss. Hanora ""Norah""",女,,0,0,330919,7.8292,,皇后镇
+655,遇难,3,"Hegarty, Miss. Hanora ""Nora""",女,18.0,0,0,365226,6.75,,皇后镇
+656,遇难,2,"Hickman, Mr. Leonard Mark",男,24.0,2,0,S.O.C. 14879,73.5,,南安普顿
+657,遇难,3,"Radeff, Mr. Alexander",男,,0,0,349223,7.8958,,南安普顿
+658,遇难,3,"Bourke, Mrs. John (Catherine)",女,32.0,1,1,364849,15.5,,皇后镇
+659,遇难,2,"Eitemiller, Mr. George Floyd",男,23.0,0,0,29751,13.0,,南安普顿
+660,遇难,1,"Newell, Mr. Arthur Webster",男,58.0,0,2,35273,113.275,D48,瑟堡
+661,生还,1,"Frauenthal, Dr. Henry William",男,50.0,2,0,PC 17611,133.65,,南安普顿
+662,遇难,3,"Badt, Mr. Mohamed",男,40.0,0,0,2623,7.225,,瑟堡
+663,遇难,1,"Colley, Mr. Edward Pomeroy",男,47.0,0,0,5727,25.5875,E58,南安普顿
+664,遇难,3,"Coleff, Mr. Peju",男,36.0,0,0,349210,7.4958,,南安普顿
+665,生还,3,"Lindqvist, Mr. Eino William",男,20.0,1,0,STON/O 2. 3101285,7.925,,南安普顿
+666,遇难,2,"Hickman, Mr. Lewis",男,32.0,2,0,S.O.C. 14879,73.5,,南安普顿
+667,遇难,2,"Butler, Mr. Reginald Fenton",男,25.0,0,0,234686,13.0,,南安普顿
+668,遇难,3,"Rommetvedt, Mr. Knud Paust",男,,0,0,312993,7.775,,南安普顿
+669,遇难,3,"Cook, Mr. Jacob",男,43.0,0,0,A/5 3536,8.05,,南安普顿
+670,生还,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",女,,1,0,19996,52.0,C126,南安普顿
+671,生还,2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",女,40.0,1,1,29750,39.0,,南安普顿
+672,遇难,1,"Davidson, Mr. Thornton",男,31.0,1,0,F.C. 12750,52.0,B71,南安普顿
+673,遇难,2,"Mitchell, Mr. Henry Michael",男,70.0,0,0,C.A. 24580,10.5,,南安普顿
+674,生还,2,"Wilhelms, Mr. Charles",男,31.0,0,0,244270,13.0,,南安普顿
+675,遇难,2,"Watson, Mr. Ennis Hastings",男,,0,0,239856,0.0,,南安普顿
+676,遇难,3,"Edvardsson, Mr. Gustaf Hjalmar",男,18.0,0,0,349912,7.775,,南安普顿
+677,遇难,3,"Sawyer, Mr. Frederick Charles",男,24.5,0,0,342826,8.05,,南安普顿
+678,生还,3,"Turja, Miss. Anna Sofia",女,18.0,0,0,4138,9.8417,,南安普顿
+679,遇难,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",女,43.0,1,6,CA 2144,46.9,,南安普顿
+680,生还,1,"Cardeza, Mr. Thomas Drake Martinez",男,36.0,0,1,PC 17755,512.3292,B51 B53 B55,瑟堡
+681,遇难,3,"Peters, Miss. Katie",女,,0,0,330935,8.1375,,皇后镇
+682,生还,1,"Hassab, Mr. Hammad",男,27.0,0,0,PC 17572,76.7292,D49,瑟堡
+683,遇难,3,"Olsvigen, Mr. Thor Anderson",男,20.0,0,0,6563,9.225,,南安普顿
+684,遇难,3,"Goodwin, Mr. Charles Edward",男,14.0,5,2,CA 2144,46.9,,南安普顿
+685,遇难,2,"Brown, Mr. Thomas William Solomon",男,60.0,1,1,29750,39.0,,南安普顿
+686,遇难,2,"Laroche, Mr. Joseph Philippe Lemercier",男,25.0,1,2,SC/Paris 2123,41.5792,,瑟堡
+687,遇难,3,"Panula, Mr. Jaako Arnold",男,14.0,4,1,3101295,39.6875,,南安普顿
+688,遇难,3,"Dakic, Mr. Branko",男,19.0,0,0,349228,10.1708,,南安普顿
+689,遇难,3,"Fischer, Mr. Eberhard Thelander",男,18.0,0,0,350036,7.7958,,南安普顿
+690,生还,1,"Madill, Miss. Georgette Alexandra",女,15.0,0,1,24160,211.3375,B5,南安普顿
+691,生还,1,"Dick, Mr. Albert Adrian",男,31.0,1,0,17474,57.0,B20,南安普顿
+692,生还,3,"Karun, Miss. Manca",女,4.0,0,1,349256,13.4167,,瑟堡
+693,生还,3,"Lam, Mr. Ali",男,,0,0,1601,56.4958,,南安普顿
+694,遇难,3,"Saad, Mr. Khalil",男,25.0,0,0,2672,7.225,,瑟堡
+695,遇难,1,"Weir, Col. John",男,60.0,0,0,113800,26.55,,南安普顿
+696,遇难,2,"Chapman, Mr. Charles Henry",男,52.0,0,0,248731,13.5,,南安普顿
+697,遇难,3,"Kelly, Mr. James",男,44.0,0,0,363592,8.05,,南安普顿
+698,生还,3,"Mullens, Miss. Katherine ""Katie""",女,,0,0,35852,7.7333,,皇后镇
+699,遇难,1,"Thayer, Mr. John Borland",男,49.0,1,1,17421,110.8833,C68,瑟堡
+700,遇难,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",男,42.0,0,0,348121,7.65,F G63,南安普顿
+701,生还,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",女,18.0,1,0,PC 17757,227.525,C62 C64,瑟堡
+702,生还,1,"Silverthorne, Mr. Spencer Victor",男,35.0,0,0,PC 17475,26.2875,E24,南安普顿
+703,遇难,3,"Barbara, Miss. Saiide",女,18.0,0,1,2691,14.4542,,瑟堡
+704,遇难,3,"Gallagher, Mr. Martin",男,25.0,0,0,36864,7.7417,,皇后镇
+705,遇难,3,"Hansen, Mr. Henrik Juul",男,26.0,1,0,350025,7.8542,,南安普顿
+706,遇难,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",男,39.0,0,0,250655,26.0,,南安普顿
+707,生还,2,"Kelly, Mrs. Florence ""Fannie""",女,45.0,0,0,223596,13.5,,南安普顿
+708,生还,1,"Calderhead, Mr. Edward Pennington",男,42.0,0,0,PC 17476,26.2875,E24,南安普顿
+709,生还,1,"Cleaver, Miss. Alice",女,22.0,0,0,113781,151.55,,南安普顿
+710,生还,3,"Moubarek, Master. Halim Gonios (""William George"")",男,,1,1,2661,15.2458,,瑟堡
+711,生还,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",女,24.0,0,0,PC 17482,49.5042,C90,瑟堡
+712,遇难,1,"Klaber, Mr. Herman",男,,0,0,113028,26.55,C124,南安普顿
+713,生还,1,"Taylor, Mr. Elmer Zebley",男,48.0,1,0,19996,52.0,C126,南安普顿
+714,遇难,3,"Larsson, Mr. August Viktor",男,29.0,0,0,7545,9.4833,,南安普顿
+715,遇难,2,"Greenberg, Mr. Samuel",男,52.0,0,0,250647,13.0,,南安普顿
+716,遇难,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",男,19.0,0,0,348124,7.65,F G73,南安普顿
+717,生还,1,"Endres, Miss. Caroline Louise",女,38.0,0,0,PC 17757,227.525,C45,瑟堡
+718,生还,2,"Troutt, Miss. Edwina Celia ""Winnie""",女,27.0,0,0,34218,10.5,E101,南安普顿
+719,遇难,3,"McEvoy, Mr. Michael",男,,0,0,36568,15.5,,皇后镇
+720,遇难,3,"Johnson, Mr. Malkolm Joackim",男,33.0,0,0,347062,7.775,,南安普顿
+721,生还,2,"Harper, Miss. Annie Jessie ""Nina""",女,6.0,0,1,248727,33.0,,南安普顿
+722,遇难,3,"Jensen, Mr. Svend Lauritz",男,17.0,1,0,350048,7.0542,,南安普顿
+723,遇难,2,"Gillespie, Mr. William Henry",男,34.0,0,0,12233,13.0,,南安普顿
+724,遇难,2,"Hodges, Mr. Henry Price",男,50.0,0,0,250643,13.0,,南安普顿
+725,生还,1,"Chambers, Mr. Norman Campbell",男,27.0,1,0,113806,53.1,E8,南安普顿
+726,遇难,3,"Oreskovic, Mr. Luka",男,20.0,0,0,315094,8.6625,,南安普顿
+727,生还,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",女,30.0,3,0,31027,21.0,,南安普顿
+728,生还,3,"Mannion, Miss. Margareth",女,,0,0,36866,7.7375,,皇后镇
+729,遇难,2,"Bryhl, Mr. Kurt Arnold Gottfrid",男,25.0,1,0,236853,26.0,,南安普顿
+730,遇难,3,"Ilmakangas, Miss. Pieta Sofia",女,25.0,1,0,STON/O2. 3101271,7.925,,南安普顿
+731,生还,1,"Allen, Miss. Elisabeth Walton",女,29.0,0,0,24160,211.3375,B5,南安普顿
+732,遇难,3,"Hassan, Mr. Houssein G N",男,11.0,0,0,2699,18.7875,,瑟堡
+733,遇难,2,"Knight, Mr. Robert J",男,,0,0,239855,0.0,,南安普顿
+734,遇难,2,"Berriman, Mr. William John",男,23.0,0,0,28425,13.0,,南安普顿
+735,遇难,2,"Troupiansky, Mr. Moses Aaron",男,23.0,0,0,233639,13.0,,南安普顿
+736,遇难,3,"Williams, Mr. Leslie",男,28.5,0,0,54636,16.1,,南安普顿
+737,遇难,3,"Ford, Mrs. Edward (Margaret Ann Watson)",女,48.0,1,3,W./C. 6608,34.375,,南安普顿
+738,生还,1,"Lesurer, Mr. Gustave J",男,35.0,0,0,PC 17755,512.3292,B101,瑟堡
+739,遇难,3,"Ivanoff, Mr. Kanio",男,,0,0,349201,7.8958,,南安普顿
+740,遇难,3,"Nankoff, Mr. Minko",男,,0,0,349218,7.8958,,南安普顿
+741,生还,1,"Hawksford, Mr. Walter James",男,,0,0,16988,30.0,D45,南安普顿
+742,遇难,1,"Cavendish, Mr. Tyrell William",男,36.0,1,0,19877,78.85,C46,南安普顿
+743,生还,1,"Ryerson, Miss. Susan Parker ""Suzette""",女,21.0,2,2,PC 17608,262.375,B57 B59 B63 B66,瑟堡
+744,遇难,3,"McNamee, Mr. Neal",男,24.0,1,0,376566,16.1,,南安普顿
+745,生还,3,"Stranden, Mr. Juho",男,31.0,0,0,STON/O 2. 3101288,7.925,,南安普顿
+746,遇难,1,"Crosby, Capt. Edward Gifford",男,70.0,1,1,WE/P 5735,71.0,B22,南安普顿
+747,遇难,3,"Abbott, Mr. Rossmore Edward",男,16.0,1,1,C.A. 2673,20.25,,南安普顿
+748,生还,2,"Sinkkonen, Miss. Anna",女,30.0,0,0,250648,13.0,,南安普顿
+749,遇难,1,"Marvin, Mr. Daniel Warner",男,19.0,1,0,113773,53.1,D30,南安普顿
+750,遇难,3,"Connaghton, Mr. Michael",男,31.0,0,0,335097,7.75,,皇后镇
+751,生还,2,"Wells, Miss. Joan",女,4.0,1,1,29103,23.0,,南安普顿
+752,生还,3,"Moor, Master. Meier",男,6.0,0,1,392096,12.475,E121,南安普顿
+753,遇难,3,"Vande Velde, Mr. Johannes Joseph",男,33.0,0,0,345780,9.5,,南安普顿
+754,遇难,3,"Jonkoff, Mr. Lalio",男,23.0,0,0,349204,7.8958,,南安普顿
+755,生还,2,"Herman, Mrs. Samuel (Jane Laver)",女,48.0,1,2,220845,65.0,,南安普顿
+756,生还,2,"Hamalainen, Master. Viljo",男,0.67,1,1,250649,14.5,,南安普顿
+757,遇难,3,"Carlsson, Mr. August Sigfrid",男,28.0,0,0,350042,7.7958,,南安普顿
+758,遇难,2,"Bailey, Mr. Percy Andrew",男,18.0,0,0,29108,11.5,,南安普顿
+759,遇难,3,"Theobald, Mr. Thomas Leonard",男,34.0,0,0,363294,8.05,,南安普顿
+760,生还,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",女,33.0,0,0,110152,86.5,B77,南安普顿
+761,遇难,3,"Garfirth, Mr. John",男,,0,0,358585,14.5,,南安普顿
+762,遇难,3,"Nirva, Mr. Iisakki Antino Aijo",男,41.0,0,0,SOTON/O2 3101272,7.125,,南安普顿
+763,生还,3,"Barah, Mr. Hanna Assi",男,20.0,0,0,2663,7.2292,,瑟堡
+764,生还,1,"Carter, Mrs. William Ernest (Lucile Polk)",女,36.0,1,2,113760,120.0,B96 B98,南安普顿
+765,遇难,3,"Eklund, Mr. Hans Linus",男,16.0,0,0,347074,7.775,,南安普顿
+766,生还,1,"Hogeboom, Mrs. John C (Anna Andrews)",女,51.0,1,0,13502,77.9583,D11,南安普顿
+767,遇难,1,"Brewe, Dr. Arthur Jackson",男,,0,0,112379,39.6,,瑟堡
+768,遇难,3,"Mangan, Miss. Mary",女,30.5,0,0,364850,7.75,,皇后镇
+769,遇难,3,"Moran, Mr. Daniel J",男,,1,0,371110,24.15,,皇后镇
+770,遇难,3,"Gronnestad, Mr. Daniel Danielsen",男,32.0,0,0,8471,8.3625,,南安普顿
+771,遇难,3,"Lievens, Mr. Rene Aime",男,24.0,0,0,345781,9.5,,南安普顿
+772,遇难,3,"Jensen, Mr. Niels Peder",男,48.0,0,0,350047,7.8542,,南安普顿
+773,遇难,2,"Mack, Mrs. (Mary)",女,57.0,0,0,S.O./P.P. 3,10.5,E77,南安普顿
+774,遇难,3,"Elias, Mr. Dibo",男,,0,0,2674,7.225,,瑟堡
+775,生还,2,"Hocking, Mrs. Elizabeth (Eliza Needs)",女,54.0,1,3,29105,23.0,,南安普顿
+776,遇难,3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",男,18.0,0,0,347078,7.75,,南安普顿
+777,遇难,3,"Tobin, Mr. Roger",男,,0,0,383121,7.75,F38,皇后镇
+778,生还,3,"Emanuel, Miss. Virginia Ethel",女,5.0,0,0,364516,12.475,,南安普顿
+779,遇难,3,"Kilgannon, Mr. Thomas J",男,,0,0,36865,7.7375,,皇后镇
+780,生还,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",女,43.0,0,1,24160,211.3375,B3,南安普顿
+781,生还,3,"Ayoub, Miss. Banoura",女,13.0,0,0,2687,7.2292,,瑟堡
+782,生还,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",女,17.0,1,0,17474,57.0,B20,南安普顿
+783,遇难,1,"Long, Mr. Milton Clyde",男,29.0,0,0,113501,30.0,D6,南安普顿
+784,遇难,3,"Johnston, Mr. Andrew G",男,,1,2,W./C. 6607,23.45,,南安普顿
+785,遇难,3,"Ali, Mr. William",男,25.0,0,0,SOTON/O.Q. 3101312,7.05,,南安普顿
+786,遇难,3,"Harmer, Mr. Abraham (David Lishin)",男,25.0,0,0,374887,7.25,,南安普顿
+787,生还,3,"Sjoblom, Miss. Anna Sofia",女,18.0,0,0,3101265,7.4958,,南安普顿
+788,遇难,3,"Rice, Master. George Hugh",男,8.0,4,1,382652,29.125,,皇后镇
+789,生还,3,"Dean, Master. Bertram Vere",男,1.0,1,2,C.A. 2315,20.575,,南安普顿
+790,遇难,1,"Guggenheim, Mr. Benjamin",男,46.0,0,0,PC 17593,79.2,B82 B84,瑟堡
+791,遇难,3,"Keane, Mr. Andrew ""Andy""",男,,0,0,12460,7.75,,皇后镇
+792,遇难,2,"Gaskell, Mr. Alfred",男,16.0,0,0,239865,26.0,,南安普顿
+793,遇难,3,"Sage, Miss. Stella Anna",女,,8,2,CA. 2343,69.55,,南安普顿
+794,遇难,1,"Hoyt, Mr. William Fisher",男,,0,0,PC 17600,30.6958,,瑟堡
+795,遇难,3,"Dantcheff, Mr. Ristiu",男,25.0,0,0,349203,7.8958,,南安普顿
+796,遇难,2,"Otter, Mr. Richard",男,39.0,0,0,28213,13.0,,南安普顿
+797,生还,1,"Leader, Dr. Alice (Farnham)",女,49.0,0,0,17465,25.9292,D17,南安普顿
+798,生还,3,"Osman, Mrs. Mara",女,31.0,0,0,349244,8.6833,,南安普顿
+799,遇难,3,"Ibrahim Shawah, Mr. Yousseff",男,30.0,0,0,2685,7.2292,,瑟堡
+800,遇难,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",女,30.0,1,1,345773,24.15,,南安普顿
+801,遇难,2,"Ponesell, Mr. Martin",男,34.0,0,0,250647,13.0,,南安普顿
+802,生还,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",女,31.0,1,1,C.A. 31921,26.25,,南安普顿
+803,生还,1,"Carter, Master. William Thornton II",男,11.0,1,2,113760,120.0,B96 B98,南安普顿
+804,生还,3,"Thomas, Master. Assad Alexander",男,0.42,0,1,2625,8.5167,,瑟堡
+805,生还,3,"Hedman, Mr. Oskar Arvid",男,27.0,0,0,347089,6.975,,南安普顿
+806,遇难,3,"Johansson, Mr. Karl Johan",男,31.0,0,0,347063,7.775,,南安普顿
+807,遇难,1,"Andrews, Mr. Thomas Jr",男,39.0,0,0,112050,0.0,A36,南安普顿
+808,遇难,3,"Pettersson, Miss. Ellen Natalia",女,18.0,0,0,347087,7.775,,南安普顿
+809,遇难,2,"Meyer, Mr. August",男,39.0,0,0,248723,13.0,,南安普顿
+810,生还,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",女,33.0,1,0,113806,53.1,E8,南安普顿
+811,遇难,3,"Alexander, Mr. William",男,26.0,0,0,3474,7.8875,,南安普顿
+812,遇难,3,"Lester, Mr. James",男,39.0,0,0,A/4 48871,24.15,,南安普顿
+813,遇难,2,"Slemen, Mr. Richard James",男,35.0,0,0,28206,10.5,,南安普顿
+814,遇难,3,"Andersson, Miss. Ebba Iris Alfrida",女,6.0,4,2,347082,31.275,,南安普顿
+815,遇难,3,"Tomlin, Mr. Ernest Portage",男,30.5,0,0,364499,8.05,,南安普顿
+816,遇难,1,"Fry, Mr. Richard",男,,0,0,112058,0.0,B102,南安普顿
+817,遇难,3,"Heininen, Miss. Wendla Maria",女,23.0,0,0,STON/O2. 3101290,7.925,,南安普顿
+818,遇难,2,"Mallet, Mr. Albert",男,31.0,1,1,S.C./PARIS 2079,37.0042,,瑟堡
+819,遇难,3,"Holm, Mr. John Fredrik Alexander",男,43.0,0,0,C 7075,6.45,,南安普顿
+820,遇难,3,"Skoog, Master. Karl Thorsten",男,10.0,3,2,347088,27.9,,南安普顿
+821,生还,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",女,52.0,1,1,12749,93.5,B69,南安普顿
+822,生还,3,"Lulic, Mr. Nikola",男,27.0,0,0,315098,8.6625,,南安普顿
+823,遇难,1,"Reuchlin, Jonkheer. John George",男,38.0,0,0,19972,0.0,,南安普顿
+824,生还,3,"Moor, Mrs. (Beila)",女,27.0,0,1,392096,12.475,E121,南安普顿
+825,遇难,3,"Panula, Master. Urho Abraham",男,2.0,4,1,3101295,39.6875,,南安普顿
+826,遇难,3,"Flynn, Mr. John",男,,0,0,368323,6.95,,皇后镇
+827,遇难,3,"Lam, Mr. Len",男,,0,0,1601,56.4958,,南安普顿
+828,生还,2,"Mallet, Master. Andre",男,1.0,0,2,S.C./PARIS 2079,37.0042,,瑟堡
+829,生还,3,"McCormack, Mr. Thomas Joseph",男,,0,0,367228,7.75,,皇后镇
+830,生还,1,"Stone, Mrs. George Nelson (Martha Evelyn)",女,62.0,0,0,113572,80.0,B28,
+831,生还,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",女,15.0,1,0,2659,14.4542,,瑟堡
+832,生还,2,"Richards, Master. George Sibley",男,0.83,1,1,29106,18.75,,南安普顿
+833,遇难,3,"Saad, Mr. Amin",男,,0,0,2671,7.2292,,瑟堡
+834,遇难,3,"Augustsson, Mr. Albert",男,23.0,0,0,347468,7.8542,,南安普顿
+835,遇难,3,"Allum, Mr. Owen George",男,18.0,0,0,2223,8.3,,南安普顿
+836,生还,1,"Compton, Miss. Sara Rebecca",女,39.0,1,1,PC 17756,83.1583,E49,瑟堡
+837,遇难,3,"Pasic, Mr. Jakob",男,21.0,0,0,315097,8.6625,,南安普顿
+838,遇难,3,"Sirota, Mr. Maurice",男,,0,0,392092,8.05,,南安普顿
+839,生还,3,"Chip, Mr. Chang",男,32.0,0,0,1601,56.4958,,南安普顿
+840,生还,1,"Marechal, Mr. Pierre",男,,0,0,11774,29.7,C47,瑟堡
+841,遇难,3,"Alhomaki, Mr. Ilmari Rudolf",男,20.0,0,0,SOTON/O2 3101287,7.925,,南安普顿
+842,遇难,2,"Mudd, Mr. Thomas Charles",男,16.0,0,0,S.O./P.P. 3,10.5,,南安普顿
+843,生还,1,"Serepeca, Miss. Augusta",女,30.0,0,0,113798,31.0,,瑟堡
+844,遇难,3,"Lemberopolous, Mr. Peter L",男,34.5,0,0,2683,6.4375,,瑟堡
+845,遇难,3,"Culumovic, Mr. Jeso",男,17.0,0,0,315090,8.6625,,南安普顿
+846,遇难,3,"Abbing, Mr. Anthony",男,42.0,0,0,C.A. 5547,7.55,,南安普顿
+847,遇难,3,"Sage, Mr. Douglas Bullen",男,,8,2,CA. 2343,69.55,,南安普顿
+848,遇难,3,"Markoff, Mr. Marin",男,35.0,0,0,349213,7.8958,,瑟堡
+849,遇难,2,"Harper, Rev. John",男,28.0,0,1,248727,33.0,,南安普顿
+850,生还,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",女,,1,0,17453,89.1042,C92,瑟堡
+851,遇难,3,"Andersson, Master. Sigvard Harald Elias",男,4.0,4,2,347082,31.275,,南安普顿
+852,遇难,3,"Svensson, Mr. Johan",男,74.0,0,0,347060,7.775,,南安普顿
+853,遇难,3,"Boulos, Miss. Nourelain",女,9.0,1,1,2678,15.2458,,瑟堡
+854,生还,1,"Lines, Miss. Mary Conover",女,16.0,0,1,PC 17592,39.4,D28,南安普顿
+855,遇难,2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",女,44.0,1,0,244252,26.0,,南安普顿
+856,生还,3,"Aks, Mrs. Sam (Leah Rosen)",女,18.0,0,1,392091,9.35,,南安普顿
+857,生还,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",女,45.0,1,1,36928,164.8667,,南安普顿
+858,生还,1,"Daly, Mr. Peter Denis ",男,51.0,0,0,113055,26.55,E17,南安普顿
+859,生还,3,"Baclini, Mrs. Solomon (Latifa Qurban)",女,24.0,0,3,2666,19.2583,,瑟堡
+860,遇难,3,"Razi, Mr. Raihed",男,,0,0,2629,7.2292,,瑟堡
+861,遇难,3,"Hansen, Mr. Claus Peter",男,41.0,2,0,350026,14.1083,,南安普顿
+862,遇难,2,"Giles, Mr. Frederick Edward",男,21.0,1,0,28134,11.5,,南安普顿
+863,生还,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",女,48.0,0,0,17466,25.9292,D17,南安普顿
+864,遇难,3,"Sage, Miss. Dorothy Edith ""Dolly""",女,,8,2,CA. 2343,69.55,,南安普顿
+865,遇难,2,"Gill, Mr. John William",男,24.0,0,0,233866,13.0,,南安普顿
+866,生还,2,"Bystrom, Mrs. (Karolina)",女,42.0,0,0,236852,13.0,,南安普顿
+867,生还,2,"Duran y More, Miss. Asuncion",女,27.0,1,0,SC/PARIS 2149,13.8583,,瑟堡
+868,遇难,1,"Roebling, Mr. Washington Augustus II",男,31.0,0,0,PC 17590,50.4958,A24,南安普顿
+869,遇难,3,"van Melkebeke, Mr. Philemon",男,,0,0,345777,9.5,,南安普顿
+870,生还,3,"Johnson, Master. Harold Theodor",男,4.0,1,1,347742,11.1333,,南安普顿
+871,遇难,3,"Balkic, Mr. Cerin",男,26.0,0,0,349248,7.8958,,南安普顿
+872,生还,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",女,47.0,1,1,11751,52.5542,D35,南安普顿
+873,遇难,1,"Carlsson, Mr. Frans Olof",男,33.0,0,0,695,5.0,B51 B53 B55,南安普顿
+874,遇难,3,"Vander Cruyssen, Mr. Victor",男,47.0,0,0,345765,9.0,,南安普顿
+875,生还,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",女,28.0,1,0,P/PP 3381,24.0,,瑟堡
+876,生还,3,"Najib, Miss. Adele Kiamie ""Jane""",女,15.0,0,0,2667,7.225,,瑟堡
+877,遇难,3,"Gustafsson, Mr. Alfred Ossian",男,20.0,0,0,7534,9.8458,,南安普顿
+878,遇难,3,"Petroff, Mr. Nedelio",男,19.0,0,0,349212,7.8958,,南安普顿
+879,遇难,3,"Laleff, Mr. Kristo",男,,0,0,349217,7.8958,,南安普顿
+880,生还,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",女,56.0,0,1,11767,83.1583,C50,瑟堡
+881,生还,2,"Shelley, Mrs. William (Imanita Parrish Hall)",女,25.0,0,1,230433,26.0,,南安普顿
+882,遇难,3,"Markun, Mr. Johann",男,33.0,0,0,349257,7.8958,,南安普顿
+883,遇难,3,"Dahlberg, Miss. Gerda Ulrika",女,22.0,0,0,7552,10.5167,,南安普顿
+884,遇难,2,"Banfield, Mr. Frederick James",男,28.0,0,0,C.A./SOTON 34068,10.5,,南安普顿
+885,遇难,3,"Sutehall, Mr. Henry Jr",男,25.0,0,0,SOTON/OQ 392076,7.05,,南安普顿
+886,遇难,3,"Rice, Mrs. William (Margaret Norton)",女,39.0,0,5,382652,29.125,,皇后镇
+887,遇难,2,"Montvila, Rev. Juozas",男,27.0,0,0,211536,13.0,,南安普顿
+888,生还,1,"Graham, Miss. Margaret Edith",女,19.0,0,0,112053,30.0,B42,南安普顿
+889,遇难,3,"Johnston, Miss. Catherine Helen ""Carrie""",女,,1,2,W./C. 6607,23.45,,南安普顿
+890,生还,1,"Behr, Mr. Karl Howell",男,26.0,0,0,111369,30.0,C148,瑟堡
+891,遇难,3,"Dooley, Mr. Patrick",男,32.0,0,0,370376,7.75,,皇后镇
